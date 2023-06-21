@@ -1,0 +1,548 @@
+id,Date,Title,calculadora_musico_nombre_artistico,calculadora_musico_provincia,calculadora_musico_tipo,calculadora_provincia_evento,calculadora_numero_invitados,calculadora_espacio_evento,calculadora_horas_actuacion,calculadora_formato_musico,estimacionPrecioTotal,fech_evento,calculadora_id_musico,solicitud_calculada_paso,estado_solicitud
+31796,2023-03-10,,Eva Páez,,Músico,,,,,,,,10989,1,
+31798,2023-03-10,,Spin Off,,Músico,,,,,,,,8279,1,
+31799,2023-03-10,,Kilometro cero,,Músico,,,,,,,,9421,1,
+31800,2023-03-10,,Crazy Cabin,Madrid,Músico,Madrid,250,dentro,1,Solista,528,,16158,2,
+31801,2023-03-10,Mensaje de  a Serotonina,Serotonina,,,,,,,,,,,,
+31802,2023-03-10,Mensaje de  a Crazy Cabin,Crazy Cabin,,,,,,,,,,,,
+31803,2023-03-10,Mensaje de  a J&amp;J Music,J&J Music,,,,,,,,,,,,
+31804,2023-03-10,Mensaje de  a Los Boppers,Los Boppers,,,,,,,,,,,,
+31805,2023-03-10,Mensaje de  a TOUR 80,TOUR 80,,,,,,,,,,,,
+31806,2023-03-10,Mensaje de  a LalalaBand,LalalaBand,,,,,,,,,,,,
+31807,2023-03-10,Mensaje de  a Beatriz Pastor,Beatriz Pastor,,,,,,,,,,,,
+31808,2023-03-10,Mensaje de  a Rústica,Rústica,,,,,,,,,,,,
+31809,2023-03-10,Mensaje de  a AMEDIAS,AMEDIAS,,,,,,,,,,,,
+31812,2023-03-10,,Retropop,,Músico,,,,,,,,17325,1,
+31816,2023-03-11,,Perdiendo el norte,,Músico,,,,,,,,9685,1,
+31817,2023-03-11,,Spin Off,,Músico,,,,,,,,8279,1,
+31818,2023-03-11,,Rústica,Madrid,Músico,Badajoz,30,dentro,2,Solista,312,2023-03-18,10151,3,amedias
+31819,2023-03-11,Mensaje de  a Rústica,Rústica,,,,,,,,,,,,
+31820,2023-03-12,Solicitud calculada de Juana-Esp.,DRELO,Valencia,Músico,Valencia,35,aire,2,Dúo,334,2023-05-20,6392,3,completa
+31822,2023-03-12,,Rústica,,Músico,,,,,,,,10151,1,
+31882,2023-03-13,,Spin Off,,Músico,,,,,,,,8279,1,
+31892,2023-03-13,,Spin Off,Madrid,Músico,Madrid,20,dentro,1,Dúo,240,2023-03-21,8279,3,amedias
+31893,2023-03-13,,Spin Off,,Músico,,,,,,,,8279,1,
+31982,2023-03-13,,DZayasMusic,,Músico,,,,,,,,5382,1,
+31986,2023-03-14,,Dj Ricky,,DJ,,,,,,,,8916,1,
+31997,2023-03-14,,Tercer Tiempo,,Músico,,,,,,,,16416,1,
+31999,2023-03-14,,Valentinammusic,,Músico,,,,,,,,10482,1,
+32004,2023-03-14,,Arde la calle,,Músico,,,,,,,,11405,1,
+32011,2023-03-14,Solicitud calculada de Eleazara-Paniagua,Guilan,Madrid,Músico,Madrid,20,aire,2,Solista,240,2023-05-06,5423,3,completa
+32017,2023-03-14,,Arde la calle,,Músico,,,,,,,,11405,1,
+32018,2023-03-14,,Paula y Rober,,Músico,,,,,,,,20253,1,
+32035,2023-03-14,Mensaje de  a ZIRO,ZIRO,,,,,,,,,,,,
+32036,2023-03-14,Mensaje de  a Grupo La Fragua,Grupo La Fragua,,,,,,,,,,,,
+32037,2023-03-14,Mensaje de  a Covernicolas,Covernicolas,,,,,,,,,,,,
+32038,2023-03-14,Mensaje de  a Majestic Band,Majestic Band,,,,,,,,,,,,
+32039,2023-03-14,,Eco & Éle,,Músico,,,,,,,,27887,1,
+32047,2023-03-15,,Antonio Moreno DJ,,DJ,,,,,,,,9949,1,
+32048,2023-03-15,,Antonio Moreno DJ,,DJ,,,,,,,,9949,1,
+32064,2023-03-15,,Tin Fernández,,Músico,,,,,,,,9465,1,
+32066,2023-03-15,,Miri’s Way,Barcelona,Músico,Barcelona,20,aire,1,Dúo,180,2023-06-03,9375,3,amedias
+32079,2023-03-15,,Spin Off,Madrid,Músico,Madrid,20,dentro,1,Dúo,240,2023-03-30,8279,1,amedias
+32091,2023-03-15,,The Nunzias,,Músico,,,,,,,,16191,1,
+32260,2023-03-16,,ZaoNightBand,Madrid,Músico,Madrid,20,dentro,1,Banda con batería,1020,2023-03-22,,,
+32267,2023-03-17,,Magic Ugutz Electronic,Vizcaya,DJ,Vizcaya,1,aire,4,,942,2023-06-22,,,
+32275,2023-03-17,,Eco & Éle,León,Músico,León,20,dentro,1,Dúo,240,20230318,,,
+32282,2023-03-17,,Pepi Vergara,Málaga,Músico,Málaga,20,aire,2,Trío,312,2023-05-06,,,
+32284,2023-03-18,,Javi del Val,Madrid,Músico,Madrid,20,aire,1,Solista,120,2023-04-15,,,
+32288,2023-03-18,,Indie Gnawa,Barcelona,Músico,Barcelona,37,aire,2,Solista,300,2023-03-25,,,
+32294,2023-03-19,,Dj poleo,Teruel,DJ,Teruel,100,dentro,16,,1200,2023-04-08,,,
+32323,2023-03-20,,Deiv,Barcelona,Músico,Barcelona,40,aire,2,Dúo,264,2023-04-15,,,
+32324,2023-03-20,,Dj Archi,Zaragoza,DJ,Zaragoza,100,aire,4,,510,2023-05-27,,,
+32372,2023-03-21,,Pilar Bec,Sevilla,Músico,Sevilla,20,dentro,2,Solista,240,2023-05-13,,,
+32379,2023-03-21,,RUMBERTO,Barcelona,Músico,Gerona,100,aire,2,Trío,1638,2023-09-09,,,
+32380,2023-03-21,,Enrique Santiago 'Rumba y Fusion',Barcelona,Músico,Gerona,120,aire,2,Banda con batería,1434,2023-09-09,,,
+32446,2023-03-22,,The Malaki Tones,Asturias,Músico,Asturias,20,aire,1,Dúo,360,2023-03-26,,,
+32550,2023-03-22,,CALMA,Málaga,Músico,Málaga,20,aire,1,Trío,360,2023-06-10,,,
+32551,2023-03-22,,ALEXIA PARRA,Zaragoza,Músico,Zaragoza,14,dentro,1,Solista,180,2023-04-14,,,
+32574,2023-03-23,Nueva calculadora de ignaciomabor a Spin Off,Spin Off,Madrid,Músico,Madrid,20,dentro,1,Dúo,240,2023-03-24,,,
+32576,2023-03-23,Nueva calculadora de Irene Rodríguez a Jtorres,Jtorres,Barcelona,DJ,Barcelona,100,dentro,1,,276,2023-06-03,,,
+32577,2023-03-23,Nueva calculadora de Irene Rodríguez a Jtorres,Jtorres,Barcelona,DJ,Barcelona,100,dentro,4,,456,2023-06-03,,,
+32578,2023-03-23,Nueva calculadora de Nuria a Rústica,Rústica,Madrid,Músico,Guadalajara,200,aire,2,Banda con batería,1017,2023-09-30,,,
+32687,2023-03-24,Nueva calculadora de Gustavo a SAXERI,SAXERI,Toledo,Músico,Toledo,40,aire,2,Solista,396,2023-04-29,,,
+32695,2023-03-25,Nueva calculadora de Juan a Miri’s Way,Miri’s Way,Barcelona,Músico,Barcelona,40,aire,4,Banda con batería,900,2023-05-20,,,
+32698,2023-03-25,Nueva calculadora de Juan García arellano a The Killer Rockets,The Killer Rockets,Málaga,Músico,Málaga,30,aire,2,Banda con batería,900,2023-06-24,,,
+32699,2023-03-25,Nueva calculadora de Quite a DJNAVARRO,DJNAVARRO,Alicante,DJ,Alicante,90,dentro,2,,240,2023-06-03,,,
+32703,2023-03-26,Nueva calculadora de Esther a Maliu,Maliu,Badajoz,DJ,Badajoz,20,aire,4,,300,2023-06-03,,,
+32705,2023-03-26,Nueva calculadora de Maika a Carlos Gloria,Carlos Gloria,Salamanca,Músico,Salamanca,2000,dentro,3,Solista,480,2023-04-29,,,
+32706,2023-03-26,Nueva calculadora de Sonia a Dj Pol Batrox,Dj Pol Batrox,Valencia,DJ,Valencia,20,dentro,3,,180,2023-12-29,,,
+32715,2023-03-27,Nueva calculadora de salba a TUTUKÁ,TUTUKÁ,Vizcaya,Músico,Álava,100,aire,2,Cuarteto,670,2023-04-30,,,
+32733,2023-03-27,Nueva calculadora de CRISTINA ALFARO a Efectos Personales,Efectos Personales,Valencia,Músico,Valencia,70,aire,4,Banda con batería,1488,2023-04-15,,,
+32734,2023-03-27,Nueva calculadora de CRISTINA ALFARO a DRELO,DRELO,Valencia,Músico,Valencia,80,aire,4,Banda con batería,1488,2023-04-15,,,
+32769,2023-03-27,Nueva calculadora de Maria a Anaís Gómez,Anaís Gómez,Valencia,Músico,Valencia,20,aire,3,Dúo,300,2023-04-30,,,
+32813,2023-03-29,Nueva calculadora de gaizka a TUTUKÁ,TUTUKÁ,Vizcaya,Músico,Álava,20,dentro,2,Cuarteto,370,2023-04-30,,,
+32906,2023-03-31,Nueva calculadora de Frederica Avila a Alex Duato,Alex Duato,Barcelona,Músico,Barcelona,30,aire,2,Solista,360,2023-06-09,,,
+32907,2023-03-31,Nueva calculadora de Frederica Avila a Nathalia,Nathalia,Barcelona,Músico,Barcelona,30,aire,2,Dúo,480,2023-06-09,,,
+32908,2023-03-31,Nueva calculadora de Carlota a JERE,JERE,Barcelona,Músico,Barcelona,45,aire,2,Dúo,660,2023-07-08,,,
+32916,2023-04-01,Nueva calculadora de Sonia Márquez a Rihos,Rihos,Sevilla,DJ,Sevilla,100,aire,3,,540,2023-04-22,,,
+32933,2023-04-02,Nueva calculadora de Miryam a Eduardo,Eduardo,Guadalajara,Músico,Guadalajara,300,aire,1,Dúo,1020,2023-08-24,,,
+32934,2023-04-02,Nueva calculadora de Miryam a Alma y Pop,Alma y Pop,Guadalajara,Músico,Guadalajara,300,aire,4,Cuarteto,1680,2023-08-24,,,
+32938,2023-04-02,Nueva calculadora de Jose luis a The Latín Experience,The Latín Experience,Alicante,Músico,Alicante,20,dentro,1,Dúo,288,2023-05-05,,,
+32939,2023-04-03,Nueva calculadora de Xabi a June,June,Guipúzcoa,Músico,Guipúzcoa,100,aire,1,Solista,396,2023-04-21,,,
+32987,2023-04-04,Nueva calculadora de Rocio a Kalifornia Party band,Kalifornia Party band,Albacete,Músico,Albacete,30,aire,2,Trío,456,2023-06-17,,,
+32996,2023-04-05,Nueva calculadora de Brendan a Nuria Garrido,Nuria Garrido,Barcelona,Músico,Barcelona,45,aire,2,Solista,240,2023-07-15,,,
+32997,2023-04-05,Nueva calculadora de Brendan a Paul Klason,Paul Klason,Barcelona,Músico,Barcelona,45,aire,2,Solista,240,2023-07-15,,,
+33106,2023-04-05,Nueva calculadora de ignaciomabor a aitor_musico,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,144,2023-04-06,,,
+33114,2023-04-05,Nueva calculadora de Nuria a Keys Animacion,Keys Animacion,La Coruña,DJ,La Coruña,20,aire,1,,168,2023-07-28,,,
+33121,2023-04-06,Nueva calculadora de Patricia a Pamela Magal,Pamela Magal,Madrid,Músico,Madrid,20,aire,1,Solista,204,2023-06-03,,,
+33122,2023-04-06,Nueva calculadora de Frederica Avila a Adeline Music,Adeline Music,Barcelona,Músico,Barcelona,40,aire,3,Solista,360,2023-06-09,,,
+33123,2023-04-06,Nueva calculadora de Frederica Avila a Adeline Music,Adeline Music,Barcelona,Músico,Barcelona,40,aire,3,Solista,360,2023-04-09,,,
+33124,2023-04-06,Nueva calculadora de Frederica Avila a Priscilla Barbosa,Priscilla Barbosa,Barcelona,Músico,Barcelona,40,aire,3,Dúo,1080,2023-06-09,,,
+33127,2023-04-06,Nueva calculadora de Laura Fernández Bravo a RUMBITELS,RUMBITELS,Madrid,Músico,Madrid,35,aire,1,Trío,540,2023-05-20,,,
+33128,2023-04-06,Nueva calculadora de Laura Fernández Bravo a Analisse,Analisse,Madrid,Músico,Madrid,20,aire,1,Dúo,288,2023-05-20,,,
+33131,2023-04-06,Nueva calculadora de Pablo García a Alexandra &amp; BJ,Alexandra & BJ,Alicante,Músico,Alicante,36,aire,2,Dúo,396,2023-04-22,,,
+33145,2023-04-08,Nueva calculadora de Lidia a Antonio Casas,Antonio Casas,Cádiz,Músico,Cádiz,47,aire,1,Solista,84,2023-09-02,,,
+33146,2023-04-08,Nueva calculadora de Renzhow a Angie Estrella Latina,Angie Estrella Latina,Barcelona,Músico,Barcelona,100,dentro,3,Solista,636,2023-04-25,,,
+33149,2023-04-08,Nueva calculadora de Luis a DOCTOR JAVA,DOCTOR JAVA,Alicante,Músico,Alicante,18,aire,2,Trío,480,2023-06-03,,,
+33150,2023-04-08,Nueva calculadora de Luis a The Zlyppers,The Zlyppers,Alicante,Músico,Alicante,18,aire,2,Banda con batería,720,2023-06-03,,,
+33158,2023-04-10,Nueva calculadora de CRISTINA a Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,39,aire,2,Banda con batería,600,2023-04-15,,,
+33161,2023-04-10,Nueva calculadora de CRISTINA a Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,33,aire,2,Banda con batería,600,2023-04-15,,,
+33162,2023-04-10,Nueva calculadora de javier a De la Huerta,De la Huerta,Madrid,Músico,Madrid,40,aire,2,Dúo,240,2023-04-15,,,
+33169,2023-04-10,Nueva calculadora de javier a Rober Marccu,Rober Marccu,Madrid,Músico,Madrid,40,aire,2,Solista,192,2023-04-15,,,
+33221,2023-04-10,Nueva calculadora de Lidia a Montse Romero,Montse Romero,Sevilla,Músico,Cádiz,45,aire,1,Solista,201,2023-09-02,,,
+33285,2023-04-11,Nueva calculadora de maria a Tutti Frutti DUO Live,Tutti Frutti DUO Live,Madrid,Músico,Madrid,45,aire,1,Solista,336,2023-05-19,,,
+33286,2023-04-11,Nueva calculadora de maria a Pamela Magal,Pamela Magal,Madrid,Músico,Madrid,45,aire,2,Solista,276,2023-05-19,,,
+33291,2023-04-12,Nueva calculadora de Paco a Spin Off,Spin Off,Madrid,Músico,Toledo,50,aire,3,Dúo,672,2023-06-24,,,
+33330,2023-04-12,Nueva calculadora de Celia Traver a DRELO,DRELO,Valencia,Músico,Castellón,20,dentro,2,Dúo,345,2023-04-22,,,
+33331,2023-04-12,Nueva calculadora de Celia Traver a Two for pop,Two for pop,Castellón,Músico,Castellón,20,dentro,2,Dúo,360,2023-04-22,,,
+33332,2023-04-12,Nueva calculadora de ALBERTO a Montilla,Montilla,Sevilla,Músico,Sevilla,21,dentro,1,Banda/Conjunto sin batería,480,2023-05-19,,,
+33333,2023-04-12,Nueva calculadora de Celia Traver a BOLA 80,BOLA 80,Valencia,Músico,Castellón,20,dentro,2,Trío,346,2023-04-22,,,
+33428,2023-04-12,Nueva calculadora de Laura a Pirataymakarena,Pirataymakarena,Granada,Músico,Granada,120,aire,1,Dúo,780,2023-09-16,,,
+33439,2023-04-13,Nueva calculadora de Nerea a Dj Pepe arcadio,Dj Pepe arcadio,Alicante,DJ,Alicante,7,dentro,2,,420,2023-06-18,,,
+33440,2023-04-13,Nueva calculadora de Nerea a DJNAVARRO,DJNAVARRO,Alicante,DJ,Alicante,7,dentro,3,,180,2023-06-18,,,
+33584,2023-04-14,Nueva calculadora de Pablo García Climent a Alexandra &amp; BJ,Alexandra & BJ,Alicante,Músico,Alicante,36,aire,2,Dúo,396,2023-04-22,,,
+33592,2023-04-15,Nueva calculadora de Virginia a Paul Klason,Paul Klason,Barcelona,Músico,Barcelona,20,aire,2,Solista,240,2023-04-22,,,
+33593,2023-04-15,Nueva calculadora de Francisco José a Vanila Star,Vanila Star,Granada,Músico,Granada,40,aire,2,Dúo,360,2023-05-13,,,
+33595,2023-04-16,Nueva calculadora de Chema a Eco &amp; Éle,Eco & Éle,León,Músico,Guadalajara,95,aire,1,Dúo,489,2023-06-17,,,
+33654,2023-04-17,Nueva calculadora de Cristina a Lorenzo Alba Dj,Lorenzo Alba Dj,Madrid,DJ,Madrid,20,aire,3,,192,2023-04-21,,,
+33664,2023-04-17,Nueva calculadora de Amaya a Sonoriza Eventos DJs,Sonoriza Eventos DJs,Madrid,DJ,Madrid,40,aire,2,,180,2023-06-17,,,
+33767,2023-04-18,Nueva calculadora de Pablo a RUMBITELS,RUMBITELS,Madrid,Músico,Madrid,20,aire,2,Solista,300,2023-04-29,,,
+33771,2023-04-18,Nueva calculadora de Miriam Castells a Sergio Gonzalez,Sergio Gonzalez,Barcelona,Músico,Barcelona,60,aire,1,Solista,360,2023-07-01,,,
+33773,2023-04-18,Nueva calculadora de Lis a Martin,Martin,Alicante,Músico,Alicante,20,aire,2,Solista,240,2023-06-24,,,
+33788,2023-04-19,Nueva calculadora de M teresa llacer fuented a Passion,Passion,Valencia,Músico,Valencia,20,dentro,1,Dúo,576,2023-09-09,,,
+33789,2023-04-19,Nueva calculadora de M teresa llacer fuented a Passion,Passion,Valencia,Músico,Valencia,20,dentro,5,Dúo,864,2023-09-09,,,
+33816,2023-04-19,Nueva calculadora de maria cruz a Eco &amp; Éle,Eco & Éle,León,Músico,León,30,aire,3,Dúo,624,2023-06-17,,,
+33943,2023-04-20,Nueva calculadora de Rosa a camealot,camealot,Alicante,Músico,Alicante,35,aire,2,Banda con batería,450,2023-05-20,,,
+33944,2023-04-20,Nueva calculadora de ines a De la Huerta,De la Huerta,Madrid,Músico,Madrid,20,aire,2,Dúo,600,2023-06-03,,,
+33945,2023-04-20,Nueva calculadora de Rosa a DOCTOR JAVA,DOCTOR JAVA,Alicante,Músico,Alicante,35,aire,2,Banda con batería,600,2023-05-20,,,
+33946,2023-04-20,Nueva calculadora de ines a Cada Loco con su Tema,Cada Loco con su Tema,Madrid,Músico,Madrid,20,dentro,2,Banda con batería,900,2023-06-03,,,
+33947,2023-04-20,Nueva calculadora de Carolina puchol a Bárbara Fernández - Up for It!,Bárbara Fernández - Up for It!,Valencia,Músico,Valencia,40,aire,2,Dúo,336,2023-06-08,,,
+33948,2023-04-20,Nueva calculadora de Carolina a Dizzy Cats Band,Dizzy Cats Band,Valencia,Músico,Valencia,40,aire,2,Banda con batería,480,2023-06-08,,,
+33949,2023-04-20,Nueva calculadora de Carolina a Paloma Grueso &amp; Román Magnanelli,Paloma Grueso & Román Magnanelli,Valencia,Músico,Valencia,40,aire,2,Dúo,576,2023-06-08,,,
+34004,2023-04-20,Nueva calculadora de sara a Moonlaisey,Moonlaisey,Madrid,Músico,Madrid,100,aire,2,Solista,540,2023-08-26,,,
+34056,2023-04-21,Nueva calculadora de Patricia a Pablo Pedraza,Pablo Pedraza,Madrid,Músico,Madrid,35,aire,2,Dúo,420,2023-05-14,,,
+34077,2023-04-21,Nueva calculadora de Patricia a Kilometro cero,Kilometro cero,Vizcaya,Músico,Vizcaya,20,dentro,2,Banda con batería,420,2023-06-10,,,
+34081,2023-04-21,Nueva calculadora de miguel a AMEDIAS,AMEDIAS,Madrid,Músico,Madrid,40,aire,2,Dúo,420,2023-05-14,,,
+34089,2023-04-22,Nueva calculadora de David Aubia a Retropop,Retropop,Tarragona,Músico,Tarragona,20,dentro,1,Solista,144,2023-04-22,,,
+34090,2023-04-22,Nueva calculadora de David Aubia a FRIK ROK,FRIK ROK,Tarragona,Músico,Barcelona,20,aire,2,Dúo,436,2023-04-22,,,
+34091,2023-04-22,Nueva calculadora de David Aubia a Rolling Fox,Rolling Fox,Tarragona,Músico,Barcelona,20,aire,2,Banda con batería,448,2023-04-22,,,
+34092,2023-04-22,Nueva calculadora de David Aubia a Ixtlan,Ixtlan,Tarragona,Músico,Barcelona,20,aire,2,Solista,376,2023-04-22,,,
+34093,2023-04-22,Nueva calculadora de Umberto a UNDERCOVER,UNDERCOVER,Madrid,Músico,Madrid,30,aire,2,Banda con batería,1080,2023-05-20,,,
+34094,2023-04-22,Nueva calculadora de Raquel Alcázar a Pilar Bec,Pilar Bec,Sevilla,Músico,Sevilla,20,aire,1,Solista,120,2023-04-29,,,
+34095,2023-04-22,Nueva calculadora de Elena a VMP,VMP,Jaén,DJ,Jaén,25,aire,2,,180,2023-05-13,,,
+34098,2023-04-23,Nueva calculadora de Manuel molina a Anaís Gómez,Anaís Gómez,Valencia,Músico,Valencia,25,aire,3,Dúo,300,2023-05-07,,,
+34099,2023-04-23,Nueva calculadora de Manuel-Molina a IV CUATRO,IV CUATRO,Valencia,Músico,Valencia,25,aire,3,Solista,480,2023-05-07,,,
+34102,2023-04-23,Nueva calculadora de Manuel-Molina a IV CUATRO,IV CUATRO,Valencia,Músico,Valencia,25,dentro,2,Solista,360,2023-05-07,,,
+34108,2023-04-24,Nueva calculadora de ARACELI GONZALEZ a TaniMusic,TaniMusic,Málaga,Músico,Málaga,13,dentro,2,Solista,240,2023-10-19,,,
+34109,2023-04-24,Nueva calculadora de ARACELI GONZALEZ a Julián,Julián,Málaga,Músico,Málaga,13,dentro,2,Dúo,336,2023-10-19,,,
+34110,2023-04-24,Nueva calculadora de ARACELI GONZALEZ a Blanca Galiana,Blanca Galiana,Málaga,Músico,Málaga,13,dentro,2,Solista,204,2023-10-19,,,
+34125,2023-04-24,Nueva calculadora de Lara a F-Elduayen,F-Elduayen,Cantabria,DJ,Cantabria,47,dentro,6,,420,2023-06-26,,,
+34126,2023-04-24,Nueva calculadora de sara a Indie Acoustic Covers,Indie Acoustic Covers,Madrid,Músico,Madrid,200,aire,2,Dúo,732,2023-08-26,,,
+34133,2023-04-24,Nueva calculadora de Rebeca a Pol Batrox,Pol Batrox,Valencia,DJ,Valencia,50,aire,4,,480,2023-06-17,,,
+34292,2023-04-26,Nueva calculadora de Irene a Anclados,Anclados,Madrid,Músico,Madrid,100,aire,1,Solista,1080,2023-07-28,,,
+34307,2023-04-27,Nueva calculadora de César a Álvaro A,Álvaro A,Castellón,Músico,Castellón,50,aire,3,Solista,480,2023-08-03,,,
+34336,2023-04-27,Nueva calculadora de  a Pirataymakarena,Pirataymakarena,Granada,Músico,Granada,20,aire,1,Dúo,600,2023-05-06,,,
+34370,2023-04-27,Calculadora incompleta nueva,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,,,,presupuesto_calculado
+34378,2023-04-27,Reserva COMPLETA de ignaciomabor,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,2023-04-28,16318,3,completa
+34381,2023-04-27,Reserva COMPLETA de ignaciomabor,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,2023-04-28,16318,3,completa
+34387,2023-04-27,Reserva COMPLETA de HolaCarolina,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,2023-04-28,16318,3,completa
+34392,2023-04-27,Nueva calculadora de Yenifer a luis gimenez dj,luis gimenez dj,Almería,DJ,Almería,150,aire,5,,720,2023-08-05,,,
+34435,2023-04-28,Reserva - aitor_musico,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,,16318,2,presupuesto_calculado
+34447,2023-04-28,Reserva COMPLETA de Ana Belén del río Jiménez,DZayasMusic,Madrid,Músico,Córdoba,50,dentro,1,Solista,372,2023-05-06,5382,3,completa
+34451,2023-04-29,Reserva - josian el ganyero,josian el ganyero,Navarra,DJ,Navarra,20,dentro,1,,120,,14067,2,presupuesto_calculado
+34452,2023-04-29,Reserva - Lion Family Band,Lion Family Band,Madrid,Músico,Madrid,20,dentro,1,Trío,360,,6269,2,presupuesto_calculado
+34456,2023-04-29,Reserva - ORKESTADOS,ORKESTADOS,Sevilla,Músico,Sevilla,2050,dentro,1,Dúo,420,,5479,2,presupuesto_calculado
+34457,2023-04-29,Reserva - ORKESTADOS,ORKESTADOS,Sevilla,Músico,Córdoba,20,dentro,1,Dúo,264,,5479,2,presupuesto_calculado
+34462,2023-04-29,Reserva COMPLETA de Ana Belén del río Jiménez,ORKESTADOS,Sevilla,Músico,Córdoba,20,dentro,1,Dúo,264,2023-05-06,5479,3,completa
+34463,2023-04-29,Reserva COMPLETA de Ana Belén del río Jiménez,Guillermo Crovetto,Granada,Músico,Córdoba,20,dentro,1,Solista,208,2023-05-06,14408,3,completa
+34467,2023-04-30,Reserva - LUNA LLENA,LUNA LLENA,Ávila,Músico,Ávila,20,dentro,1,Banda con batería,360,,31792,2,presupuesto_calculado
+34469,2023-05-01,Reserva - Grupo Flamenco Arropia,Grupo Flamenco Arropia,Sevilla,Músico,Córdoba,20,dentro,1,Dúo,324,,23216,2,presupuesto_calculado
+34471,2023-05-02,Reserva - Alicia Zalis,Alicia Zalis,Zaragoza,Músico,Zaragoza,20,dentro,1,Solista,216,2023-05-13,6204,3,amedias
+34492,2023-05-02,Reserva - KRN,KRN,Álava,Músico,Álava,20,dentro,1,Solista,30,,34486,2,presupuesto_calculado
+34501,2023-05-02,Reserva - luis gimenez dj,luis gimenez dj,Almería,DJ,Almería,50,aire,3,,480,,19202,2,presupuesto_calculado
+34502,2023-05-02,Reserva - Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,150,dentro,2,Banda con batería,840,,6139,2,presupuesto_calculado
+34514,2023-05-02,Reserva COMPLETA de Agrinews,Marta Capitán,Sevilla,Músico,Sevilla,400,aire,1,Dúo,600,2023-05-25,21256,2,completa
+34516,2023-05-02,Reserva COMPLETA de Lino Gago,Efectos Personales,Valencia,Músico,Castellón,30,aire,2,Trío,466,2023-06-10,20498,3,completa
+34517,2023-05-02,Reserva COMPLETA de Toni gomez,LA CHICA DE AYER,Barcelona,Músico,Barcelona,40,dentro,2,Trío,504,2023-05-20,7014,2,completa
+34518,2023-05-02,Reserva COMPLETA de Lino Gago,Beerd Band,Valencia,Músico,Castellón,30,aire,2,Trío,550,2023-06-10,8332,2,completa
+34527,2023-05-03,Reserva - Miri’s Way,Miri’s Way,Barcelona,Músico,Barcelona,20,dentro,2,Dúo,264,,9375,2,presupuesto_calculado
+34532,2023-05-03,Reserva - BOLA 80,BOLA 80,Valencia,Músico,Castellón,30,aire,2,Trío,346,,5897,2,presupuesto_calculado
+34533,2023-05-03,Reserva - BOLA 80,BOLA 80,Valencia,Músico,Castellón,20,aire,2,Trío,346,,5897,2,presupuesto_calculado
+34535,2023-05-03,Reserva COMPLETA de Lino Gago,BOLA 80,Valencia,Músico,Castellón,30,aire,2,Trío,346,2023-06-10,5897,2,completa
+34540,2023-05-03,Reserva COMPLETA de Cristina,Rober Marccu,Madrid,Músico,Madrid,20,dentro,2,Solista,192,2023-05-06,27287,3,completa
+34548,2023-05-03,Reserva COMPLETA de ignaciomabor,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,2023-05-03,16318,3,completa
+34550,2023-05-03,Reserva COMPLETA de ignaciomabor,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,2023-05-03,16318,3,completa
+34552,2023-05-03,Reserva COMPLETA de ignaciomabor,aitor_musico,Albacete,Músico,Albacete,20,dentro,1,Solista,180,2023-05-02,16318,3,completa
+34557,2023-05-03,Reserva COMPLETA de Laura Fernández Bravo,RUMBITELS,Madrid,Músico,Madrid,25,aire,2,Solista,300,2023-05-20,21590,3,completa
+34569,2023-05-03,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,35,aire,2,Banda con batería,648,,10151,2,presupuesto_calculado
+34573,2023-05-03,Reserva - Pablo Pedraza,Pablo Pedraza,Madrid,Músico,Madrid,20,aire,1,Dúo,420,,5020,2,presupuesto_calculado
+34595,2023-05-04,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,20,aire,1,Solista,180,,10151,2,presupuesto_calculado
+34596,2023-05-04,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,20,dentro,1,Solista,180,,10151,2,presupuesto_calculado
+34603,2023-05-04,Reserva COMPLETA de Lourdes Martínez,Moonlight Shadows,Vizcaya,Músico,Vizcaya,100,dentro,4,Banda con batería,2160,2023-12-02,17635,3,completa
+34612,2023-05-04,Reserva - Dj Rios,Dj Rios,Cantabria,DJ,Cantabria,20,dentro,2,,120,,19023,2,presupuesto_calculado
+34615,2023-05-04,Reserva - Daniel Cerdà,Daniel Cerdà,Barcelona,Músico,Barcelona,20,dentro,1,Solista,300,,5378,2,presupuesto_calculado
+34616,2023-05-05,Reserva - SAXERI,SAXERI,Toledo,Músico,Toledo,100,dentro,1,Solista,480,2023-07-01,21526,3,amedias
+34619,2023-05-05,Reserva COMPLETA de santi cortes,Rosario López,Toledo,Músico,Toledo,200,aire,3,Solista,840,2023-07-21,15163,3,completa
+34620,2023-05-05,Reserva COMPLETA de santi cortes,DZayasMusic,Madrid,Músico,Toledo,200,aire,2,Solista,552,2023-07-21,5382,2,completa
+34622,2023-05-05,Reserva COMPLETA de Elena Leal,Alejandro Heredia,Madrid,Músico,Madrid,15,aire,1,Solista,240,2023-05-13,13627,3,completa
+34626,2023-05-05,Reserva COMPLETA de Lola,Alicia Zalis,Zaragoza,Músico,Zaragoza,20,dentro,1,Solista,216,2023-05-13,6204,3,completa
+34636,2023-05-06,Reserva - Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,130,aire,2,Trío,780,,6139,2,presupuesto_calculado
+34637,2023-05-06,Reserva - DOCTOR JAVA,DOCTOR JAVA,Alicante,Músico,Alicante,50,aire,1,Solista,360,,10197,2,presupuesto_calculado
+34644,2023-05-06,Reserva COMPLETA de albert,Leen Loud Music,Barcelona,Músico,Barcelona,20,aire,2,Dúo,336,2023-07-07,17030,3,completa
+34648,2023-05-06,Reserva COMPLETA de Julia Mena,Henry Sunday,Valencia,DJ,Valencia,30,aire,3,,360,2023-06-24,6153,3,completa
+34675,2023-05-07,Reserva - Thabs,Thabs,Valencia,DJ,Valencia,130,aire,3,,456,,6180,2,presupuesto_calculado
+34705,2023-05-08,Reserva COMPLETA de Maria Jose,RodrigoMárquezDj,Granada,DJ,Granada,130,dentro,1,,240,2023-05-27,6193,3,completa
+34717,2023-05-08,Reserva COMPLETA de PILAR,J and J,Madrid,Músico,Madrid,150,aire,2,Banda con batería,1176,2024-04-20,15250,3,completa
+34718,2023-05-08,Reserva COMPLETA de Isabel Luján,BOLA 80,Valencia,Músico,Valencia,100,aire,2,Cuarteto,756,2023-06-03,5897,3,completa
+34720,2023-05-08,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,50,dentro,1,Banda con batería,504,,10151,2,presupuesto_calculado
+34721,2023-05-08,Reserva COMPLETA de Olga,Spin Off,Madrid,Músico,Madrid,45,aire,1,Banda con batería,600,2023-06-10,8279,2,completa
+34740,2023-05-08,Nueva calculadora de Alex a Perversiones,Perversiones,Barcelona,Músico,Barcelona,140,dentro,1,Dúo,780,2023-06-10,,,
+34741,2023-05-08,Reserva COMPLETA de Patricia,Rústica,Madrid,Músico,Madrid,20,aire,1,Banda con batería,504,2023-06-16,10151,3,completa
+34742,2023-05-09,Reserva - Leen Loud Music,Leen Loud Music,Barcelona,Músico,Barcelona,20,dentro,1,Solista,180,,17030,2,presupuesto_calculado
+34754,2023-05-09,Reserva - 80 RedNecks,80 RedNecks,Madrid,Músico,Madrid,51,dentro,2,Banda con batería,1500,,8727,2,presupuesto_calculado
+34761,2023-05-09,Reserva - Pilar San Miguel,Pilar San Miguel,Cantabria,Músico,Cantabria,20,aire,50,Solista,3120,,31504,2,presupuesto_calculado
+34762,2023-05-09,Reserva - Pilar San Miguel,Pilar San Miguel,Cantabria,Músico,Cantabria,20,aire,10,Solista,720,,31504,2,presupuesto_calculado
+34763,2023-05-09,Reserva - Pilar San Miguel,Pilar San Miguel,Cantabria,Músico,Cantabria,20,dentro,1,Solista,180,,31504,2,presupuesto_calculado
+34770,2023-05-09,Reserva COMPLETA de Belén Fuentes,Joey Alonso,Madrid,Músico,Álava,200,aire,2,Cuarteto,986,2023-07-21,17516,3,completa
+34773,2023-05-09,Reserva COMPLETA de angel,Paula y Rober,Madrid,Músico,Madrid,30,dentro,2,Dúo,336,2023-05-27,20253,3,completa
+34775,2023-05-09,Reserva - Raher Swing,Raher Swing,Madrid,DJ,Madrid,20,dentro,1,,300,,24221,2,presupuesto_calculado
+34780,2023-05-09,Reserva - Raher Swing,Raher Swing,Madrid,DJ,Madrid,20,dentro,1,,300,,24221,2,presupuesto_calculado
+34796,2023-05-10,Reserva COMPLETA de ignaciomabor,Rústica,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-05-01,10151,3,completa
+34803,2023-05-10,Reserva COMPLETA de ignaciomabor,Rústica,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-05-01,10151,3,completa
+34804,2023-05-10,Reserva COMPLETA de ignaciomabor,Rústica,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-05-06,10151,3,completa
+34862,2023-05-10,Reserva COMPLETA de Aracelys Montañez,Niurka Online,Madrid,Músico,Madrid,40,aire,2,Dúo,456,2023-09-30,25581,3,completa
+34888,2023-05-10,Reserva COMPLETA de Rebeca,Nakamas,Guadalajara,Músico,Guadalajara,40,dentro,2,Solista,240,2023-07-22,28267,3,completa
+34889,2023-05-10,Reserva COMPLETA de Rebeca,RUMBITELS,Madrid,Músico,Guadalajara,35,dentro,1,Solista,249,2023-07-22,21590,3,completa
+34890,2023-05-10,Reserva - The Bandimores,The Bandimores,Barcelona,Músico,Barcelona,140,dentro,1,Banda con batería,600,,14077,2,presupuesto_calculado
+34893,2023-05-10,Reserva COMPLETA de Maribel,Montilla,Sevilla,Músico,Sevilla,50,aire,1,Trío,600,2023-09-09,7017,3,completa
+35023,2023-05-11,Reserva - DZayasMusic,DZayasMusic,Madrid,Músico,Madrid,20,dentro,1,Solista,240,,5382,2,presupuesto_calculado
+35035,2023-05-11,Reserva - Dj Frank Oz,Dj Frank Oz,Madrid,DJ,Madrid,20,dentro,1,,216,,17745,2,presupuesto_calculado
+35036,2023-05-11,Reserva COMPLETA de Encarnación,Arde la calle,Madrid,Músico,Madrid,20,dentro,1,Dúo,240,2023-06-09,11405,3,completa
+35042,2023-05-11,Reserva COMPLETA de Encarnación,Guilan,Madrid,Músico,Madrid,20,dentro,1,Dúo,180,2023-06-09,5423,3,completa
+35044,2023-05-11,Reserva COMPLETA de Encarnación,Joey Alonso,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-09,17516,3,completa
+35096,2023-05-11,Reserva - COVER SHOP BAND,COVER SHOP BAND,Valencia,Músico,Valencia,20,aire,1,Cuarteto,600,,35033,2,presupuesto_calculado
+35157,2023-05-11,Reserva - Castán dj,Castán dj,Madrid,DJ,Madrid,20,dentro,1,,60,,31251,2,presupuesto_calculado
+35215,2023-05-11,Reserva - Willy Wylazo,Willy Wylazo,Badajoz,Músico,Cáceres,200,aire,1,Banda con batería,1215,,9689,2,presupuesto_calculado
+35216,2023-05-11,Reserva - A Furia,A Furia,Cáceres,Músico,Cáceres,50,aire,2,Trío,720,2023-09-02,13918,3,amedias
+35236,2023-05-11,Reserva - Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,1,aire,1,Dúo,420,2023-05-16,6139,3,amedias
+35237,2023-05-11,Reserva - Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,40,aire,1,Dúo,420,,6139,2,presupuesto_calculado
+35312,2023-05-11,Reserva - Beerd Band,Beerd Band,Valencia,Músico,Valencia,400,dentro,4,Banda con batería,1428,,8332,2,presupuesto_calculado
+35313,2023-05-11,Reserva - Buitra,Buitra,Córdoba,DJ,Córdoba,60,aire,4,,204,,6390,2,presupuesto_calculado
+35316,2023-05-11,Reserva COMPLETA de Nerea,Nakamas,Guadalajara,Músico,Guadalajara,20,aire,2,Solista,240,2023-05-27,28267,3,completa
+35318,2023-05-11,Reserva COMPLETA de Alejandra,RUMBITELS,Madrid,Músico,Madrid,120,aire,1,Dúo,780,2023-05-20,21590,3,completa
+35319,2023-05-11,Reserva - Altostanley,Altostanley,Madrid,Músico,Madrid,20,dentro,1,Dúo,360,,5820,2,presupuesto_calculado
+35355,2023-05-12,Reserva - Willy Wylazo,Willy Wylazo,Badajoz,Músico,Badajoz,20,dentro,1,Solista,276,,9689,2,presupuesto_calculado
+35509,2023-05-12,Reserva COMPLETA de Sergio,noon,Madrid,Músico,Madrid,30,aire,3,Solista,360,2023-06-17,6444,3,completa
+35510,2023-05-13,Reserva COMPLETA de Noelia,Dj krasch,Málaga,DJ,Málaga,80,dentro,4,,360,2023-08-13,6808,3,completa
+35511,2023-05-13,Reserva - Nathalia,Nathalia,Barcelona,Músico,Barcelona,50,aire,2,Solista,420,,21765,2,presupuesto_calculado
+35553,2023-05-14,Reserva COMPLETA de Estefania Perez,Rock-Olas,Madrid,Músico,Madrid,20,aire,2,Trío,660,2023-05-27,6139,3,completa
+35574,2023-05-14,Reserva COMPLETA de mireia,Lucía Chichell,Valencia,Músico,Valencia,10,aire,1,Solista,168,2023-05-27,8208,3,completa
+35575,2023-05-14,Reserva COMPLETA de Maribel García Poveda,Davy,Madrid,Músico,Madrid,14,aire,2,Solista,180,2023-06-03,18574,3,completa
+35600,2023-05-14,Reserva - Black Star,Black Star,Barcelona,Músico,Barcelona,200,aire,1,Banda con batería,1320,,16424,2,presupuesto_calculado
+35614,2023-05-15,Reserva COMPLETA de Tamara López Carmona,Cuarteto Nonamé,Madrid,Músico,Madrid,150,aire,2,Cuarteto,936,2023-07-06,10585,3,completa
+35650,2023-05-15,Reserva - Pol Batrox,Pol Batrox,Valencia,DJ,Valencia,30,dentro,3,,240,2023-07-15,6042,3,amedias
+35651,2023-05-15,Reserva - Dj.soriano,Dj.soriano,Valencia,DJ,Valencia,30,aire,3,,60,2023-07-15,6544,3,amedias
+35652,2023-05-15,Reserva COMPLETA de Leticia,Raul Duran dj,Valencia,DJ,Valencia,30,aire,3,,180,2023-07-15,9372,2,completa
+35653,2023-05-15,Reserva COMPLETA de Leticia,Dj.soriano,Valencia,DJ,Valencia,30,aire,3,,60,2023-07-15,6544,3,completa
+35654,2023-05-15,Reserva COMPLETA de Leticia,Pol Batrox,Valencia,DJ,Valencia,30,aire,3,,240,2023-07-15,6042,3,completa
+35657,2023-05-15,Reserva COMPLETA de Leticia,Dj Pol Batrox,Valencia,DJ,Valencia,30,aire,3,,180,2023-07-15,15829,3,completa
+35658,2023-05-15,Reserva - Dj Pol Batrox,Dj Pol Batrox,Valencia,DJ,Valencia,20,dentro,1,,,,15829,2,presupuesto_calculado
+35661,2023-05-15,Reserva COMPLETA de Leticia,Thabs,Valencia,DJ,Valencia,30,aire,3,,156,2023-07-15,6180,3,completa
+35734,2023-05-15,Reserva COMPLETA de Alberto J. Barbero,FONTÁN,Madrid,Músico,Madrid,150,aire,1,Banda con batería,900,2024-06-22,22562,3,completa
+35801,2023-05-15,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,23,dentro,1,Solista,180,,10151,2,presupuesto_calculado
+35803,2023-05-15,Reserva - Russtyle,Russtyle,Burgos,DJ,Burgos,20,dentro,5,,96,,9664,2,presupuesto_calculado
+35804,2023-05-15,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,20,dentro,2,Solista,240,,10151,2,presupuesto_calculado
+35805,2023-05-15,Reserva COMPLETA de Beatriz,Rústica,Madrid,Músico,Burgos,20,dentro,3,Solista,342,2023-07-16,10151,3,completa
+35806,2023-05-15,Reserva - DZayasMusic,DZayasMusic,Madrid,Músico,Burgos,20,dentro,3,Solista,402,,5382,2,presupuesto_calculado
+35807,2023-05-15,Reserva COMPLETA de Beatriz,DZayasMusic,Madrid,Músico,Burgos,20,dentro,3,Solista,402,2023-07-16,5382,3,completa
+35808,2023-05-15,Reserva COMPLETA de Beatriz,Rober Marccu,Madrid,Músico,Burgos,20,dentro,3,Solista,306,2023-07-16,27287,3,completa
+35860,2023-05-16,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,,5423,2,presupuesto_calculado
+35898,2023-05-16,Reserva - Lorea,Lorea,Navarra,Músico,La Rioja,30,dentro,2,Dúo,351,2023-06-17,11595,3,amedias
+35905,2023-05-16,Reserva COMPLETA de Marta Donoso,Slurp!,Barcelona,Músico,Barcelona,45,aire,2,Dúo,408,2023-05-27,8767,3,completa
+35929,2023-05-16,Reserva - Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,20,dentro,1,Trío,660,,6139,2,presupuesto_calculado
+35930,2023-05-16,Reserva COMPLETA de Alberto J. Barbero,Rock-Olas,Madrid,Músico,Madrid,20,aire,1,Trío,660,2024-06-22,6139,3,completa
+35931,2023-05-16,Reserva COMPLETA de Alberto J. Barbero,Arde la calle,Madrid,Músico,Madrid,150,aire,1,Trío,804,2024-06-22,11405,3,completa
+36019,2023-05-16,Reserva COMPLETA de Angel,Mai Prieto Violinista,Madrid,Músico,Madrid,50,aire,1,Solista,360,2023-09-09,13463,3,completa
+36020,2023-05-16,Reserva COMPLETA de Alejandro,Dj Snok,Valladolid,DJ,Valladolid,20,aire,3,,120,2023-05-20,22228,3,completa
+36095,2023-05-17,Reserva COMPLETA de Jose,THE MILAGRO,Sevilla,Músico,Sevilla,80,dentro,1,Banda con batería,678,2023-05-19,9613,3,completa
+36096,2023-05-17,Reserva COMPLETA de Jose,Dando el Kante,Sevilla,Músico,Sevilla,80,dentro,2,Banda/Conjunto sin batería,1680,2023-05-19,11564,3,completa
+36099,2023-05-17,Reserva COMPLETA de Jose,Vinilo's,Sevilla,Músico,Sevilla,80,dentro,2,Banda con batería,1056,2023-05-19,20428,3,completa
+36100,2023-05-17,Reserva - Raquel Violin,Raquel Violin,Baleares,Músico,Baleares,45,aire,1,Solista,180€ + desplazamiento,,15169,2,presupuesto_calculado
+36206,2023-05-17,Reserva COMPLETA de Pablo Sanchez,DRELO,Valencia,Músico,Valencia,300,aire,2,Banda con batería,1176,2023-06-17,6392,3,completa
+36207,2023-05-17,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-05-17,5423,3,amedias
+36211,2023-05-17,Reserva - RetroCD Rock Band,RetroCD Rock Band,Murcia,Músico,Murcia,30,aire,2,Banda con batería,540,,16475,2,presupuesto_calculado
+36212,2023-05-17,Reserva - RetroCD Rock Band,RetroCD Rock Band,Murcia,Músico,Murcia,30,aire,2,Banda con batería,540,2023-07-01,16475,3,amedias
+36214,2023-05-17,Reserva COMPLETA de María Eugenia Caravaca,RetroCD Rock Band,Murcia,Músico,Murcia,30,aire,2,Banda con batería,540,2023-07-01,16475,3,completa
+36215,2023-05-17,Reserva - LA CHICA DE AYER,LA CHICA DE AYER,Barcelona,Músico,Barcelona,800,dentro,1,Trío,600,,15188,2,presupuesto_calculado
+36216,2023-05-17,Reserva - LA CHICA DE AYER,LA CHICA DE AYER,Barcelona,Músico,Barcelona,800,dentro,1,Trío,600,,15188,2,presupuesto_calculado
+36219,2023-05-17,Reserva - RUMBITELS,RUMBITELS,Madrid,Músico,Madrid,250,aire,1,Dúo,780,,21590,2,presupuesto_calculado
+36220,2023-05-17,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,30,dentro,12,Solista,840,,10151,2,presupuesto_calculado
+36221,2023-05-17,Reserva COMPLETA de Yolanda rodriguez otero,Rústica,Madrid,Músico,Madrid,30,dentro,2,Solista,240,2023-06-03,10151,3,completa
+36222,2023-05-17,Reserva COMPLETA de Yolanda rodriguez otero,Rober Marccu,Madrid,Músico,Madrid,30,dentro,2,Solista,192,2023-06-03,27287,3,completa
+36229,2023-05-17,Reserva - Contando Canciones Dúo Acústico,Contando Canciones Dúo Acústico,Sevilla,Músico,Sevilla,20,dentro,1,Dúo,480,,36218,2,presupuesto_calculado
+36237,2023-05-17,Reserva COMPLETA de Beatriz,Javi del Val,Madrid,Músico,Burgos,20,dentro,2,Solista,282,2023-07-16,7598,3,completa
+36238,2023-05-17,Reserva - Juan Antonio Ordóñez,Juan Antonio Ordóñez,Madrid,Músico,Guadalajara,30,dentro,3,Solista,249,,23072,2,presupuesto_calculado
+36262,2023-05-17,Reserva COMPLETA de Jose,Blacklabel Duo,Pontevedra,Músico,Pontevedra,20,aire,1,Dúo,240,2023-05-27,15237,3,completa
+36283,2023-05-18,Reserva - RetroCD Rock Band,RetroCD Rock Band,Murcia,Músico,Murcia,20,dentro,1,Banda con batería,540,,16475,2,presupuesto_calculado
+36284,2023-05-18,Reserva - Karén Raúl,Karén Raúl,Murcia,Músico,Murcia,20,dentro,1,Solista,180,,6713,2,presupuesto_calculado
+36398,2023-05-19,Reserva - Morethansax,Morethansax,Alicante,Músico,Alicante,20,aire,1,Solista,144,,20321,2,presupuesto_calculado
+36400,2023-05-19,Reserva COMPLETA de Gabriela,Alvaro,Barcelona,Músico,Barcelona,12,aire,1,Solista,180,2023-05-24,9366,2,completa
+36401,2023-05-19,Reserva COMPLETA de Gabriela,Sax and DJ,Barcelona,Músico,Barcelona,12,aire,1,Solista,180,2023-05-24,15306,3,completa
+36848,2023-05-19,Reserva COMPLETA de Amparo Arrese,Guilan,Madrid,Músico,Madrid,150,aire,2,Dúo,576,2023-09-02,5423,3,completa
+36849,2023-05-19,Reserva COMPLETA de Amparo Arrese,Rock-Olas,Madrid,Músico,Madrid,150,aire,2,Dúo,540,2023-09-02,6139,3,completa
+36900,2023-05-20,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,1000,dentro,2,Dúo,456,,5423,2,presupuesto_calculado
+36907,2023-05-20,Reserva - Pol Batrox,Pol Batrox,Valencia,DJ,Valencia,50,aire,6,,600,,6042,2,presupuesto_calculado
+36908,2023-05-20,Reserva COMPLETA de Raquel,Rústica,Madrid,Músico,Madrid,50,aire,2,Banda con batería,960,2023-06-10,10151,3,completa
+36926,2023-05-20,Reserva COMPLETA de Julia,Joey Alonso,Madrid,Músico,Madrid,200,dentro,1,Banda con batería,840,2023-06-03,17516,3,completa
+36929,2023-05-21,Reserva COMPLETA de Yoly,bandido,Zaragoza,Músico,Zaragoza,20,dentro,1,Solista,240,2023-07-08,18379,3,completa
+36951,2023-05-21,Reserva COMPLETA de Esperanza,DJ Xuky Barbate,Cádiz,DJ,Sevilla,40,dentro,2,,141,2023-06-03,8758,3,completa
+37010,2023-05-21,Reserva COMPLETA de Angela,Conjunt Sharazan,Gerona,Músico,Gerona,60,aire,2,Dúo,660,2023-07-01,6710,3,completa
+37023,2023-05-21,Reserva - Juan Navarro,Juan Navarro,Valencia,Músico,Valencia,20,dentro,1,Solista,120,,26030,2,presupuesto_calculado
+37027,2023-05-21,Reserva - MCevent,MCevent,Barcelona,Músico,Barcelona,20,dentro,1,Dúo,240,,13962,2,presupuesto_calculado
+37033,2023-05-21,Reserva - Jtorres,Jtorres,Barcelona,DJ,Barcelona,15,aire,1,,96,,6090,2,presupuesto_calculado
+37034,2023-05-21,Reserva - Guilan,Guilan,Madrid,Músico,Valladolid,200,dentro,1,Trío,507,,5423,2,presupuesto_calculado
+37078,2023-05-22,Reserva COMPLETA de Cristina Vila,Nathalia,Barcelona,Músico,Barcelona,50,aire,2,Solista,420,2023-05-27,21765,3,completa
+37082,2023-05-22,Reserva - Escudero Sax,Escudero Sax,Barcelona,Músico,Barcelona,50,aire,2,Solista,420,,23064,2,presupuesto_calculado
+37083,2023-05-22,Reserva COMPLETA de Cristina Vila,Escudero Sax,Barcelona,Músico,Barcelona,50,dentro,2,Solista,360,2023-05-27,23064,3,completa
+37084,2023-05-22,Reserva - Indie Acoustic Covers,Indie Acoustic Covers,Madrid,Músico,Madrid,20,dentro,1,Dúo,288,,14637,2,presupuesto_calculado
+37133,2023-05-22,Reserva COMPLETA de hendrik meima,Lee Junior,Guipúzcoa,Músico,Guipúzcoa,30,aire,3,Solista,348,2023-06-03,5576,3,completa
+37189,2023-05-22,Reserva - Moonlight,Moonlight,Murcia,Músico,Murcia,200,dentro,1,Banda con batería,600,,30128,2,presupuesto_calculado
+37211,2023-05-22,Reserva COMPLETA de javier gonzalez,Frankz Ruiz,Málaga,DJ,Málaga,20,dentro,2,,180,2023-05-27,9302,3,completa
+37212,2023-05-22,Reserva - TaniMusic,TaniMusic,Málaga,Músico,Málaga,20,dentro,2,Solista,240,2023-05-27,9831,3,amedias
+37245,2023-05-22,Reserva COMPLETA de Javier González,TaniMusic,Málaga,Músico,Málaga,20,aire,2,Solista,240,2023-05-27,9831,2,completa
+37246,2023-05-22,Reserva COMPLETA de Javier González,Vulturez,Málaga,DJ,Málaga,20,dentro,3,,300,2023-05-27,13930,3,completa
+37368,2023-05-22,Reserva - Morethansax,Morethansax,Alicante,Músico,Alicante,31,dentro,1,Solista,144,,20321,2,presupuesto_calculado
+37508,2023-05-23,Reserva - Guillermo Crovetto,Guillermo Crovetto,Granada,Músico,Granada,30,aire,1,Solista,180,2023-06-10,14408,3,amedias
+37530,2023-05-23,Reserva - Al vuelo,Al vuelo,Granada,Músico,Granada,20,aire,1,Dúo,420,,19206,2,presupuesto_calculado
+37552,2023-05-23,Reserva - María Lukin,María Lukin,Navarra,Músico,Navarra,120,aire,1,Dúo,552,,10237,2,presupuesto_calculado
+37572,2023-05-23,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,,5423,2,presupuesto_calculado
+37580,2023-05-23,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,,5423,2,presupuesto_calculado
+37581,2023-05-23,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,,5423,2,presupuesto_calculado
+37664,2023-05-23,Reserva - Gonzalo Cruzado,Gonzalo Cruzado,Cuenca,DJ,Cuenca,20,dentro,1,,120,,6716,2,presupuesto_calculado
+37665,2023-05-23,Reserva COMPLETA de Irene Cerdeira,Nathalia,Barcelona,Músico,Barcelona,200,aire,3,Solista,600,2023-06-17,21765,3,completa
+37666,2023-05-23,Reserva COMPLETA de Victoria,Leen Loud Music,Barcelona,Músico,Barcelona,15,aire,1,Solista,180,2023-06-13,17030,3,completa
+37709,2023-05-23,Reserva COMPLETA de antonia,The Latín Experience,Alicante,Músico,Alicante,41,aire,2,Dúo,288,2023-06-03,15174,3,completa
+37727,2023-05-23,Reserva - Cocktel Flamenkito,Cocktel Flamenkito,Madrid,Músico,Madrid,20,dentro,1,Solista,240,,36261,2,presupuesto_calculado
+38153,2023-05-24,Reserva - La Buena Onda con Jadey,La Buena Onda con Jadey,Zaragoza,Músico,Zaragoza,40,aire,2,Banda/Conjunto sin batería,912,2023-06-17,8934,3,amedias
+38201,2023-05-24,Reserva COMPLETA de Jose e Isabel,JdV Co.,Madrid,Músico,Madrid,180,aire,2,Dúo,660,2023-10-13,7593,3,completa
+38237,2023-05-24,Reserva COMPLETA de Jose e isabel,Daniel Gómez,Madrid,Músico,Madrid,180,aire,2,Dúo,636,2023-10-13,21795,3,completa
+38252,2023-05-24,Reserva COMPLETA de Jose e Isabel,Cada Loco con su Tema,Madrid,Músico,Madrid,180,aire,2,Dúo,696,2023-10-13,31430,3,completa
+38258,2023-05-24,Reserva - The Zlyppers,The Zlyppers,Alicante,Músico,Alicante,20,dentro,1,Banda con batería,720,,6263,2,presupuesto_calculado
+38338,2023-05-24,Reserva COMPLETA de Jose e Isabel,Jorge Dylan,Madrid,Músico,Madrid,180,aire,2,Dúo,420,2023-10-13,10606,3,completa
+38440,2023-05-25,Reserva - CIENTOVEINTE,CIENTOVEINTE,Madrid,Músico,Madrid,20,dentro,1,Dúo,354,,28239,2,presupuesto_calculado
+38467,2023-05-25,Reserva - Celi,Celi,Valencia,Músico,Valencia,20,dentro,1,Solista,180,,38453,2,presupuesto_calculado
+38469,2023-05-25,Reserva COMPLETA de Xabi,Willy Wylazo,Badajoz,Músico,Guipúzcoa,100,aire,2,Banda con batería,1554,2023-10-13,9689,3,completa
+38508,2023-05-25,Reserva COMPLETA de Virginia,Sofy García,Castellón,Músico,Castellón,20,dentro,1,Dúo,240,2023-06-20,15102,3,completa
+38558,2023-05-25,Reserva COMPLETA de Olaya,Blacklabel Duo,Pontevedra,Músico,Pontevedra,8,aire,1,Dúo,240,2023-06-10,15237,3,completa
+38614,2023-05-25,Reserva COMPLETA de Julia Perinan,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-05-26,5423,3,completa
+38661,2023-05-25,Reserva COMPLETA de Mencía,David Diéguez,Madrid,Músico,Madrid,20,aire,1,Solista,84,2023-06-23,21465,3,completa
+38772,2023-05-26,Reserva COMPLETA de Nicole,HELENA LYNN,Baleares,Músico,Baleares,20,aire,1,Solista,180€ + desplazamiento,2023-06-02,32423,3,completa
+38986,2023-05-26,Reserva - Victoria moreno,Victoria moreno,Barcelona,Músico,Madrid,20,dentro,1,Solista,351,,8897,2,presupuesto_calculado
+39027,2023-05-26,Reserva COMPLETA de ignaciomabor,Rock-Olas,Madrid,Músico,Madrid,20,dentro,1,Solista,240,2023-05-26,6139,3,completa
+39190,2023-05-27,Reserva COMPLETA de Sonia,Arde la calle,Madrid,Músico,Madrid,20,dentro,1,Dúo,240,2023-06-16,11405,3,completa
+39222,2023-05-27,Reserva - SILKWOOD,SILKWOOD,Madrid,Músico,Madrid,20,dentro,1,Banda con batería,600,,39215,2,presupuesto_calculado
+39226,2023-05-28,Reserva - Jorge Dylan,Jorge Dylan,Madrid,Músico,Madrid,2060,aire,2,Trío,720,,10606,2,presupuesto_calculado
+39278,2023-05-28,Reserva - Senipaifos,Senipaifos,Madrid,Músico,Madrid,50,dentro,1,Solista,300,,27683,2,presupuesto_calculado
+39299,2023-05-28,Reserva COMPLETA de Alejandro,Arde la calle,Madrid,Músico,Madrid,100,dentro,2,Banda con batería,1656,2023-09-01,11405,3,completa
+39300,2023-05-28,Reserva COMPLETA de Alejandro,ZaoNightBand,Madrid,Músico,Madrid,100,dentro,2,Banda con batería,1500,2023-09-01,11830,3,completa
+39339,2023-05-29,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,,5423,2,presupuesto_calculado
+39409,2023-05-29,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-05-29,16318,3,completa
+39497,2023-05-29,Reserva - Joey Alonso,Joey Alonso,Madrid,Músico,Madrid,12,dentro,1,Solista,180,,17516,2,presupuesto_calculado
+39630,2023-05-29,Reserva COMPLETA de Fernando García,Sonoriza Eventos DJs,Madrid,DJ,Madrid,20,aire,2,,180,2023-06-02,5429,3,completa
+39631,2023-05-29,Reserva - Juan Antonio Ordóñez,Juan Antonio Ordóñez,Madrid,Músico,Madrid,20,dentro,1,Solista,120,,23072,2,presupuesto_calculado
+39732,2023-05-29,Reserva - Alex Escot,Alex Escot,Gerona,Músico,Albacete,20,dentro,1,Cuarteto,751,,39269,2,presupuesto_calculado
+39802,2023-05-30,Reserva COMPLETA de Julia,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-05-30,5423,3,completa
+39895,2023-05-30,Reserva - Guillermo Crovetto,Guillermo Crovetto,Granada,Músico,Granada,40,aire,2,Solista,240,,14408,2,presupuesto_calculado
+39896,2023-05-30,Reserva COMPLETA de María,Boleríssima,Alicante,Músico,Alicante,40,aire,2,Solista,360,2023-10-09,29726,3,completa
+39927,2023-05-30,Reserva - DEJA QUE SUEÑE - TRIBUTO A MANUEL CARRASCO,DEJA QUE SUEÑE - TRIBUTO A MANUEL CARRASCO,Valencia,Músico,Valencia,20,dentro,1,Dúo,480,,30371,2,presupuesto_calculado
+39948,2023-05-30,Reserva COMPLETA de Juan,Musiksanne,Madrid,DJ,Madrid,50,aire,3,,252,2023-06-23,6003,3,completa
+40015,2023-05-30,Reserva COMPLETA de Laura,Syperx,Madrid,DJ,Madrid,20,aire,3,,180,2023-07-01,8138,3,completa
+40016,2023-05-30,Reserva COMPLETA de Laura,Sonnya Dueñas,Madrid,DJ,Madrid,20,aire,2,,240,2023-07-01,7499,3,completa
+40032,2023-05-31,Reserva - Julia Martínez,Julia Martínez,Albacete,Músico,Albacete,150,dentro,1,Dúo,540,2023-06-22,18260,3,amedias
+40033,2023-05-31,Reserva - Eco &amp; Éle,Eco & Éle,León,Músico,León,80,aire,3,Dúo,804,2023-06-10,27887,3,amedias
+40039,2023-05-31,Reserva - Paloma García del Busto,Paloma García del Busto,Madrid,Músico,Madrid,700,dentro,1,Solista,360,,4914,2,presupuesto_calculado
+40040,2023-05-31,Reserva - Paloma García del Busto,Paloma García del Busto,Madrid,Músico,Madrid,700,dentro,2,Trío,900,,4914,2,presupuesto_calculado
+40064,2023-05-31,Reserva - Orquesta Innova-2,Orquesta Innova-2,Madrid,Músico,Alicante,300,aire,3,Banda con batería,1875,,16270,2,presupuesto_calculado
+40065,2023-05-31,Reserva COMPLETA de Manuel,LA CHICA DE AYER,Barcelona,Músico,Barcelona,20,dentro,1,Trío,420,2023-06-09,15188,3,completa
+40073,2023-05-31,Reserva COMPLETA de Katia,Blacklabel Duo,Pontevedra,Músico,Pontevedra,20,aire,2,Dúo,336,2023-06-09,15237,3,completa
+40081,2023-05-31,Reserva - Ana Luna,Ana Luna,Córdoba,Músico,Córdoba,40,aire,3,Trío,576,,20486,2,presupuesto_calculado
+40082,2023-05-31,Reserva - Sergio Gonzalez,Sergio Gonzalez,Barcelona,Músico,Barcelona,20,aire,1,Solista,180,,18364,2,presupuesto_calculado
+40083,2023-05-31,Reserva COMPLETA de Isabel y Jose,Arde la calle,Madrid,Músico,Madrid,200,aire,2,Dúo,636,2023-10-13,11405,3,completa
+40111,2023-05-31,Reserva COMPLETA de Mariví,JayCe,La Coruña,Músico,La Coruña,20,aire,2,Solista,300,2023-07-08,8370,3,completa
+40112,2023-05-31,Reserva - MCevent,MCevent,Barcelona,Músico,Barcelona,200,dentro,1,Solista,360,,13962,2,presupuesto_calculado
+40132,2023-06-01,Reserva COMPLETA de ignaciomabor,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-05,5423,3,completa
+40140,2023-06-01,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,20,dentro,1,Solista,240,,10151,2,presupuesto_calculado
+40198,2023-06-01,Reserva - JdV Co.,JdV Co.,Madrid,Músico,Madrid,40,dentro,2,Dúo,360,,7593,2,presupuesto_calculado
+40199,2023-06-01,Reserva - JdV Co.,JdV Co.,Madrid,Músico,Madrid,20,aire,2,Dúo,360,,7593,2,presupuesto_calculado
+40211,2023-06-01,Reserva - JdV Co.,JdV Co.,Madrid,Músico,Madrid,47,aire,2,Dúo,360,2023-07-22,7593,3,amedias
+40213,2023-06-01,Reserva COMPLETA de EDUARDO,JdV Co.,Madrid,Músico,Madrid,40,aire,2,Dúo,360,2023-07-22,7593,3,completa
+40309,2023-06-01,Reserva COMPLETA de Teresa,Efectos Personales,Valencia,Músico,Castellón,40,aire,2,Dúo,346,2023-06-24,20498,3,completa
+40319,2023-06-01,Reserva - DZayasMusic,DZayasMusic,Madrid,Músico,Toledo,300,aire,1,Dúo,972,,5382,2,presupuesto_calculado
+40330,2023-06-02,Reserva - BBC&amp;D,BBC&D,Madrid,Músico,Madrid,20,dentro,1,Banda con batería,960,,24724,2,presupuesto_calculado
+40448,2023-06-02,Reserva COMPLETA de Rafael García,Sabineando con Alfonso Lora,Cádiz,Músico,Cádiz,28,aire,2,Solista,330,2023-07-01,14650,3,completa
+40450,2023-06-02,Reserva COMPLETA de Rafael García,Serendipia Pop&Rock,Cádiz,Músico,Cádiz,28,aire,2,Banda con batería,540,2023-07-01,18437,3,completa
+40463,2023-06-02,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-02,16318,3,completa
+40580,2023-06-02,Reserva - DOCTOR JAVA,DOCTOR JAVA,Alicante,Músico,Alicante,150,aire,1,Banda con batería,840,,10197,2,presupuesto_calculado
+40623,2023-06-02,Reserva COMPLETA de prp,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-02,5423,3,completa
+40777,2023-06-02,Reserva COMPLETA de Remei,LA CHICA DE AYER,Barcelona,Músico,Barcelona,40,aire,1,Cuarteto,480,2023-07-01,7014,3,completa
+40778,2023-06-02,Reserva COMPLETA de Alberto,Javi Williams,Madrid,Músico,Madrid,10,dentro,1,Solista,240,2023-06-16,11220,3,completa
+40779,2023-06-03,Reserva COMPLETA de María José,Elena Salpe,Granada,Músico,Granada,20,dentro,1,Dúo,120,2023-06-04,9958,3,completa
+40834,2023-06-03,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-03,16318,3,completa
+40835,2023-06-03,Reserva - aitor_musico,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,,16318,2,presupuesto_calculado
+40845,2023-06-03,Reserva COMPLETA de pruebanachcalcu,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-04,16318,3,completa
+40886,2023-06-03,Reserva COMPLETA de hdhd,Guilan,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-03,5423,3,completa
+40897,2023-06-03,Reserva - Leen Loud Music,Leen Loud Music,Barcelona,Músico,Barcelona,28,aire,2,Dúo,360,,17030,2,presupuesto_calculado
+40898,2023-06-03,Reserva COMPLETA de Carmen,Cada Loco con su Tema,Madrid,Músico,Guadalajara,140,aire,2,Trío,849,2023-07-01,31430,3,completa
+40923,2023-06-03,Reserva COMPLETA de Diego,Waxi flamenco,Almería,Músico,Almería,2,aire,1,Trío,2280,2023-06-04,11791,3,completa
+40950,2023-06-04,Reserva COMPLETA de Sara Sánchez,Rober Marccu,Madrid,Músico,Madrid,40,aire,1,Solista,120,2023-06-24,27287,3,completa
+40951,2023-06-04,Reserva - Javi del Val,Javi del Val,Madrid,Músico,Madrid,40,aire,1,Solista,120,2023-06-24,7598,3,amedias
+40978,2023-06-04,Reserva COMPLETA de Teresa Gutierrez,Cada Loco con su Tema,Madrid,Músico,Madrid,40,dentro,2,Dúo,396,2023-07-07,31430,3,completa
+40984,2023-06-04,Reserva - Guilan,Guilan,Madrid,Músico,Guadalajara,180,aire,2,Dúo,585,2023-06-24,5423,3,amedias
+40985,2023-06-04,Reserva COMPLETA de Conchi,DZayasMusic,Madrid,Músico,Guadalajara,180,aire,2,Solista,549,2023-06-24,5382,3,completa
+40986,2023-06-04,Reserva - The Zlyppers,The Zlyppers,Alicante,Músico,Alicante,20,aire,2,Banda con batería,720,,6263,2,presupuesto_calculado
+41078,2023-06-05,Reserva COMPLETA de Lucía García Díaz,Joey Alonso,Madrid,Músico,Guadalajara,200,aire,2,Dúo,645,2023-06-24,17516,3,completa
+41087,2023-06-05,Reserva - VAYA MOVIDA POP 80 90,VAYA MOVIDA POP 80 90,Toledo,Músico,Toledo,20,dentro,1,Banda con batería,1080,,29646,2,presupuesto_calculado
+41135,2023-06-05,Reserva - BBC&amp;D,BBC&D,Madrid,Músico,Madrid,20,dentro,1,Banda con batería,960,,24724,2,presupuesto_calculado
+41183,2023-06-05,Reserva COMPLETA de sara,Harvest Moon,Valencia,Músico,Valencia,35,aire,1,Dúo,240,2023-06-17,5996,3,completa
+41184,2023-06-05,Reserva - BBC&amp;D,BBC&D,Madrid,Músico,Madrid,20,dentro,1,Banda con batería,960,,24724,2,presupuesto_calculado
+41302,2023-06-05,Reserva COMPLETA de Conchi,Jorge Dylan,Madrid,Músico,Guadalajara,180,aire,2,Dúo,429,2023-06-24,10606,3,completa
+41306,2023-06-05,Reserva COMPLETA de Conchi,RUMBITELS,Madrid,Músico,Guadalajara,180,aire,2,Dúo,897,2023-06-24,21590,3,completa
+41307,2023-06-05,Reserva COMPLETA de Conchi,Guilan,Madrid,Músico,Guadalajara,180,aire,2,Dúo,585,2023-06-24,5423,3,completa
+41308,2023-06-05,Reserva - Eco &amp; Éle,Eco & Éle,León,Músico,León,20,dentro,1,Dúo,240,2023-09-09,27887,3,amedias
+41359,2023-06-05,Reserva - POP Boulevard,POP Boulevard,Madrid,Músico,Madrid,20,dentro,1,Dúo,420,,5380,2,presupuesto_calculado
+41361,2023-06-05,Reserva - LA CHICA DE AYER,LA CHICA DE AYER,Barcelona,Músico,Barcelona,20,dentro,1,Trío,540,,15188,2,presupuesto_calculado
+41365,2023-06-05,Reserva - POP Boulevard,POP Boulevard,Madrid,Músico,Guadalajara,180,aire,2,Dúo,849,,5380,2,presupuesto_calculado
+41440,2023-06-05,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-06,16318,3,completa
+41534,2023-06-05,Reserva - AMEDIAS,AMEDIAS,Madrid,Músico,Guadalajara,170,aire,2,Dúo,729,2023-06-24,10040,3,amedias
+41559,2023-06-05,Reserva - Nakamas,Nakamas,Guadalajara,Músico,Guadalajara,170,aire,2,Trío,756,2023-06-24,28267,3,amedias
+41630,2023-06-05,Reserva COMPLETA de Conchi,De la Huerta,Madrid,Músico,Guadalajara,180,aire,2,Dúo,909,2023-06-24,10882,3,completa
+41644,2023-06-05,Reserva - Franc,Franc,Málaga,Músico,Málaga,45,dentro,2,Solista,240,,20258,2,presupuesto_calculado
+41692,2023-06-06,Reserva COMPLETA de Marina de Diego,Kilometro cero,Vizcaya,Músico,Vizcaya,60,aire,2,Trío,480,2023-07-13,9421,3,completa
+41699,2023-06-06,Reserva COMPLETA de Ana,Marta Capitán,Sevilla,Músico,Sevilla,350,dentro,1,Dúo,480,2023-10-14,21256,3,completa
+41738,2023-06-06,Reserva COMPLETA de Lorena,Guilan,Madrid,Músico,Madrid,30,aire,1,Dúo,180,2023-07-01,5423,2,completa
+41745,2023-06-07,Reserva - Aqua dj,Aqua dj,Pontevedra,DJ,Pontevedra,49,aire,5,,240,,6024,2,presupuesto_calculado
+41747,2023-06-07,Reserva COMPLETA de Ana,Arde la calle,Madrid,Músico,Badajoz,300,aire,2,Banda con batería,1848,2024-09-07,11405,3,completa
+41748,2023-06-07,Reserva - Arde la calle,Arde la calle,Madrid,Músico,Madrid,380,aire,2,Banda con batería,1776,2024-06-08,11405,3,amedias
+41799,2023-06-07,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-08,16318,3,completa
+41802,2023-06-07,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-10,16318,3,completa
+41809,2023-06-07,Reserva - Pink Cadillac,Pink Cadillac,Madrid,Músico,Madrid,20,dentro,1,Dúo,240,,29479,2,presupuesto_calculado
+41821,2023-06-07,Reserva - Piano&amp;Experience,Piano&Experience,Alicante,Músico,Alicante,80,aire,2,Solista,420,,13671,2,presupuesto_calculado
+41842,2023-06-07,Reserva COMPLETA de Ana,Meteorito J,Vizcaya,Músico,Vizcaya,10,dentro,2,Solista,288,2023-06-15,9222,3,completa
+41872,2023-06-07,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-08,16318,3,completa
+41877,2023-06-07,Reserva - Tantita Tralla,Tantita Tralla,Madrid,Músico,Madrid,80,dentro,2,Banda con batería,600,,32889,2,presupuesto_calculado
+41900,2023-06-07,Reserva COMPLETA de soynacho,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-08,16318,3,completa
+41901,2023-06-07,Reserva - Meteorito J,Meteorito J,Vizcaya,Músico,Vizcaya,20,dentro,1,Solista,216,,9222,2,presupuesto_calculado
+41902,2023-06-07,Reserva COMPLETA de Nelly Kazuk,RUMBITELS,Madrid,Músico,Madrid,30,aire,1,Dúo,480,2023-06-24,21590,3,completa
+41903,2023-06-07,Reserva COMPLETA de Nelly Kazuk,Rock-Olas,Madrid,Músico,Madrid,30,aire,1,Dúo,540,2023-06-24,6139,3,completa
+41906,2023-06-07,Reserva COMPLETA de Tomás Morales González,Typical Spanish Rumba,Barcelona,Músico,Barcelona,17,aire,1,Banda/Conjunto sin batería,480,2023-06-17,5430,3,completa
+41914,2023-06-07,Reserva - Siempre Locos,Siempre Locos,Murcia,Músico,Murcia,20,dentro,1,Banda con batería,840,,27417,2,presupuesto_calculado
+41944,2023-06-08,Reserva COMPLETA de Diego Fernández,Són d' primera,Alicante,Músico,Alicante,40,aire,1,Dúo,480,2023-07-01,5505,3,completa
+42071,2023-06-08,Reserva COMPLETA de ignaciomabor,De la Huerta,Madrid,Músico,Madrid,20,dentro,1,Solista,360,2023-06-09,10882,3,completa
+42097,2023-06-08,Reserva - Rody Sousa Cantante Animador,Rody Sousa Cantante Animador,Málaga,Músico,Málaga,20,dentro,1,Solista,300,,26263,2,presupuesto_calculado
+42125,2023-06-08,Reserva - Noelia Torres,Noelia Torres,Barcelona,Músico,Barcelona,25,dentro,1,Solista,180,,16914,2,presupuesto_calculado
+42143,2023-06-08,Reserva - Minkee,Minkee,Ávila,Músico,Ávila,50,aire,2,Solista,306,,9220,2,presupuesto_calculado
+42145,2023-06-08,Reserva COMPLETA de Bing,Sonoriza Eventos DJs,Madrid,DJ,Madrid,100,dentro,2,,360,2023-11-05,5429,3,completa
+42183,2023-06-08,Reserva - Sonoriza Eventos DJs,Sonoriza Eventos DJs,Madrid,DJ,Madrid,200,aire,4,,600,,5429,2,presupuesto_calculado
+42220,2023-06-08,Reserva - Charlo,Charlo,Pontevedra,Músico,Pontevedra,100,dentro,2,Solista,480,,21431,2,presupuesto_calculado
+42224,2023-06-08,Reserva COMPLETA de Marta,Rock-Olas,Madrid,Músico,Madrid,50,aire,1,Solista,420,2023-06-24,6139,3,completa
+42225,2023-06-08,Reserva - Rústica,Rústica,Madrid,Músico,Madrid,20,dentro,1,Solista,240,2023-06-24,10151,3,amedias
+42229,2023-06-08,Reserva - Joy violinist,Joy violinist,Madrid,Músico,Madrid,20,dentro,1,Solista,300,,39157,2,presupuesto_calculado
+42256,2023-06-08,Reserva - Dj eros,Dj eros,Orense,DJ,Orense,100,aire,4,,600,2023-07-08,6182,3,amedias
+42271,2023-06-08,Reserva - Meteorito J,Meteorito J,Vizcaya,Músico,Vizcaya,30,aire,90,Solista,6624,,9222,2,presupuesto_calculado
+42289,2023-06-08,Reserva COMPLETA de Lidia,Pilar Bec,Sevilla,Músico,Cádiz,45,aire,1,Solista,141,2023-09-02,23667,3,completa
+42331,2023-06-09,Reserva - Guilan,Guilan,Madrid,Músico,Madrid,20,dentro,2,Dúo,516,,5423,2,presupuesto_calculado
+42379,2023-06-09,Reserva - Alex Duato,Alex Duato,Barcelona,Músico,Barcelona,100,dentro,1,Solista,480,,18621,2,presupuesto_calculado
+42380,2023-06-09,Reserva - A Furia,A Furia,Cáceres,Músico,Cáceres,20,dentro,1,Trío,420,,13918,2,presupuesto_calculado
+42381,2023-06-09,Reserva - Davy,Davy,Madrid,Músico,Madrid,20,dentro,2,Solista,180,2023-07-15,18574,3,amedias
+42382,2023-06-09,Reserva - Davy,Davy,Madrid,Músico,Madrid,20,dentro,2,Solista,180,,18574,2,presupuesto_calculado
+42386,2023-06-09,Reserva - Typical Spanish Rumba,Typical Spanish Rumba,Barcelona,Músico,Barcelona,190,aire,1,Dúo,1020,,5430,2,presupuesto_calculado
+42412,2023-06-10,Reserva - Rabanito,Rabanito,Málaga,Músico,Málaga,10,dentro,1,Solista,360,,17997,2,presupuesto_calculado
+42483,2023-06-10,Reserva - Mavi,Mavi,León,Músico,León,20,dentro,1,Solista,240,,42482,2,presupuesto_calculado
+42487,2023-06-10,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-11,16318,3,completa
+42488,2023-06-10,Reserva - BARBI&amp;KEN SHOW,BARBI&KEN SHOW,Alicante,Músico,Alicante,20,dentro,1,Dúo,840,,42409,2,presupuesto_calculado
+42551,2023-06-11,Reserva - Cira Rodríguez,Cira Rodríguez,Las Palmas,Músico,Las Palmas,20,dentro,1,Solista,300€ + desplazamiento,,16472,2,presupuesto_calculado
+42590,2023-06-11,Reserva COMPLETA de Nerea,Cada Loco con su Tema,Madrid,Músico,Madrid,40,aire,2,Dúo,396,2023-06-17,31430,3,completa
+42624,2023-06-11,Reserva COMPLETA de Nerea Martín,DZayasMusic,Madrid,Músico,Madrid,50,aire,2,Dúo,936,2023-06-17,5382,3,completa
+42759,2023-06-12,Reserva COMPLETA de Sonia Wen,Vianka Vegas,Málaga,Músico,Málaga,40,dentro,2,Dúo,336,2023-08-12,5743,3,completa
+42790,2023-06-12,Reserva COMPLETA de julia prueba,Rock-Olas,Madrid,Músico,Madrid,20,dentro,1,Solista,240,2023-06-27,6139,3,completa
+42791,2023-06-12,Reserva COMPLETA de Julia Perinan,Rock-Olas,Madrid,Músico,Madrid,20,dentro,1,Solista,240,2023-06-30,6139,3,completa
+42792,2023-06-12,Reserva COMPLETA de Julia,Rock-Olas,Madrid,Músico,Madrid,20,dentro,1,Solista,240,2023-06-27,6139,3,completa
+42832,2023-06-12,Reserva - RUMBITELS,RUMBITELS,Madrid,Músico,Madrid,90,aire,2,Dúo,768,,21590,2,presupuesto_calculado
+42862,2023-06-12,Reserva COMPLETA de patricia,InPut,Madrid,Músico,Madrid,40,dentro,2,Dúo,240,2023-06-24,22877,3,completa
+42864,2023-06-12,Reserva - InPut,InPut,Madrid,Músico,Madrid,40,dentro,2,Dúo,240,,22877,2,presupuesto_calculado
+42865,2023-06-12,Reserva COMPLETA de patricia,InPut,Madrid,Músico,Madrid,20,aire,2,Dúo,240,2023-06-24,22877,3,completa
+42893,2023-06-12,Reserva - LalalaBand,LalalaBand,Madrid,Músico,Madrid,40,aire,1,Banda con batería,1980,,14295,2,presupuesto_calculado
+42894,2023-06-12,Reserva - LalalaBand,LalalaBand,Madrid,Músico,Madrid,20,dentro,2,Banda con batería,2280,2023-06-24,14295,3,amedias
+42895,2023-06-12,Reserva COMPLETA de Alfredo,Arde la calle,Madrid,Músico,Madrid,100,dentro,2,Dúo,516,2023-06-17,11405,3,completa
+42905,2023-06-12,Reserva COMPLETA de Myriam Picado,Mariachi Sol De América,Madrid,Músico,Madrid,30,aire,1,Cuarteto,312,2023-06-24,11776,3,completa
+42908,2023-06-13,Reserva - Son de manteka,Son de manteka,Barcelona,Músico,Barcelona,20,dentro,1,Banda con batería,1800,,32651,2,presupuesto_calculado
+42909,2023-06-13,Reserva COMPLETA de Daniel,Son de manteka,Barcelona,Músico,Barcelona,20,dentro,1,Banda con batería,1800,2023-06-24,32651,3,completa
+42912,2023-06-13,Reserva - Son de manteka,Son de manteka,Barcelona,Músico,Barcelona,20,dentro,1,Banda con batería,1800,,32651,2,presupuesto_calculado
+42948,2023-06-13,Reserva - Dj.soriano,Dj.soriano,Valencia,DJ,Valencia,20,dentro,1,,60,,6544,2,presupuesto_calculado
+43022,2023-06-13,Reserva - Murano,Murano,Madrid,Músico,Madrid,20,dentro,2,Banda con batería,1416,,42995,2,presupuesto_calculado
+43074,2023-06-13,Reserva - DJavier Martín,DJavier Martín,Madrid,DJ,Madrid,20,dentro,1,,144,,43057,2,presupuesto_calculado
+43091,2023-06-13,Reserva - Guilan,Guilan,Madrid,Músico,La Coruña,80,aire,1,Trío,583,,5423,2,presupuesto_calculado
+43099,2023-06-13,Reserva - noon,noon,Madrid,Músico,Madrid,42,aire,1,Solista,240,,6444,2,presupuesto_calculado
+43146,2023-06-14,Reserva - DZayasMusic,DZayasMusic,Madrid,Músico,Madrid,20,dentro,1,Banda con batería,1800,,5382,2,presupuesto_calculado
+43148,2023-06-14,Reserva - VAYA MOVIDA POP 80 90,VAYA MOVIDA POP 80 90,Toledo,Músico,Toledo,20,dentro,1,Banda con batería,1080,,29646,2,presupuesto_calculado
+43228,2023-06-14,Reserva COMPLETA de Ismael Castañeda Ruiz,Dj Rios,Cantabria,DJ,Cantabria,20,dentro,4,,120,2023-06-17,19023,3,completa
+43273,2023-06-14,Reserva - Flamenco Events,Flamenco Events,Málaga,Músico,Málaga,20,dentro,2,Dúo,540,2023-08-25,19659,3,amedias
+43276,2023-06-14,Reserva - Julia Martínez,Julia Martínez,Albacete,Músico,Albacete,20,dentro,1,Dúo,360,,18260,2,presupuesto_calculado
+43277,2023-06-14,Reserva - Julia Martínez,Julia Martínez,Albacete,Músico,Albacete,30,aire,3,Dúo,600,2023-06-23,18260,3,amedias
+43290,2023-06-14,Reserva COMPLETA de Antonia,Isra Redondo,Córdoba,Músico,Córdoba,20,aire,2,Solista,480,2023-08-05,8760,3,completa
+43291,2023-06-14,Reserva COMPLETA de Antonia,Esto Pa Ti,Córdoba,Músico,Córdoba,20,aire,1,Dúo,300,2023-08-05,14674,3,completa
+43292,2023-06-14,Reserva COMPLETA de Antonia,Nevadosax,Córdoba,Músico,Córdoba,20,dentro,1,Solista,300,2023-08-05,13883,3,completa
+43293,2023-06-14,Reserva COMPLETA de Antonia,Isra Redondo,Córdoba,Músico,Córdoba,20,dentro,1,Solista,360,2023-08-05,8760,3,completa
+43306,2023-06-15,Reserva - María Huélamo violinista,María Huélamo violinista,Baleares,Músico,Baleares,250,dentro,1,Trío,540€ + desplazamiento,2023-10-21,12617,2,amedias
+43307,2023-06-15,Reserva COMPLETA de Alvaro Leyun Musso,María Huélamo violinista,Baleares,Músico,Baleares,250,dentro,1,Dúo,480€ + desplazamiento,2023-10-21,12617,3,completa
+43311,2023-06-15,Reserva COMPLETA de Nou Romeral,Art Quartet,Valencia,Músico,Valencia,40,aire,1,Dúo,240,2023-07-14,10862,3,completa
+43324,2023-06-15,Reserva - Rock-Olas,Rock-Olas,Madrid,Músico,Madrid,20,dentro,1,Solista,240,2023-06-14,6139,3,amedias
+43369,2023-06-15,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-16,16318,3,completa
+43384,2023-06-15,Reserva - Valium-vodka,Valium-vodka,Murcia,Músico,Murcia,18,aire,2,Trío,648,,9756,2,presupuesto_calculado
+43385,2023-06-15,Reserva - María Huélamo violinista,María Huélamo violinista,Baleares,Músico,Baleares,300,dentro,1,Dúo,480€ + desplazamiento,2023-10-21,12617,3,amedias
+43386,2023-06-15,Reserva COMPLETA de Julia Perinan,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-27,16318,3,completa
+43388,2023-06-15,Reserva COMPLETA de ignaciomabor,aitor_musico,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-06-03,16318,3,completa
+43672,2023-06-15,Reserva - ROLL IT SHOW,ROLL IT SHOW,Valencia,DJ,Valencia,50,aire,3,,3000,,8840,2,presupuesto_calculado
+43682,2023-06-15,Reserva - Iñaki,Iñaki,Gerona,Músico,Gerona,20,dentro,1,Solista,180,,43671,2,presupuesto_calculado
+43684,2023-06-15,Reserva - Iñaki,Iñaki,Gerona,Músico,Gerona,20,dentro,1,Solista,180,,43671,2,presupuesto_calculado
+43694,2023-06-15,Reserva - Saffi,Saffi,Barcelona,Músico,Barcelona,20,aire,1,Solista,180,,14000,2,presupuesto_calculado
+43704,2023-06-16,Reserva - Sonoriza Eventos DJs,Sonoriza Eventos DJs,Madrid,DJ,Madrid,20,dentro,2,,180,2023-06-17,5429,3,amedias
+43708,2023-06-16,Reserva - Joey Alonso,Joey Alonso,Madrid,Músico,Madrid,60,aire,1,Trío,612,,17516,2,presupuesto_calculado
+43710,2023-06-16,Reserva - EN RUTA,EN RUTA,Valencia,Músico,Valencia,20,dentro,1,Banda con batería,780,,27829,2,presupuesto_calculado
+43711,2023-06-16,Reserva - EN RUTA,EN RUTA,Valencia,Músico,Valencia,20,dentro,1,Banda con batería,780,,27829,2,presupuesto_calculado
+43742,2023-06-16,Reserva - Ross,Ross,Madrid,Músico,Madrid,2,aire,1,Dúo,240,,5474,2,presupuesto_calculado
+43743,2023-06-16,Reserva - Pablo Margallo,Pablo Margallo,Sevilla,Músico,Sevilla,40,aire,1,Dúo,216,,22440,2,presupuesto_calculado
+43834,2023-06-16,Reserva - Satisfayers,Satisfayers,Pontevedra,Músico,Pontevedra,20,dentro,4,Banda con batería,1188,,11187,2,presupuesto_calculado
+43838,2023-06-16,Reserva COMPLETA de Josemi,Joey Alonso,Madrid,Músico,Madrid,20,dentro,1,Solista,180,2023-07-21,17516,3,completa
+43839,2023-06-16,Reserva - Blacklabel Duo,Blacklabel Duo,Pontevedra,Músico,Lugo,20,dentro,2,Dúo,362,2023-06-23,15237,3,amedias
+43847,2023-06-17,Reserva - Furinyos,Furinyos,Castellón,Músico,Castellón,20,dentro,1,Banda con batería,600,,19087,2,presupuesto_calculado
+43888,2023-06-17,Reserva - Lester Domínguez,Lester Domínguez,Madrid,Músico,Madrid,20,dentro,1,Banda con batería,600,,43885,2,presupuesto_calculado
+43895,2023-06-17,Reserva - Marta Capitán,Marta Capitán,Sevilla,Músico,Sevilla,20,dentro,1,Trío,420,,21256,2,presupuesto_calculado
+43997,2023-06-18,Reserva - Alejandro Rosa,Alejandro Rosa,Madrid,Músico,Madrid,20,aire,2,Solista,240,,19383,2,presupuesto_calculado
+44013,2023-06-19,Reserva - Betty Brown,Betty Brown,Las Palmas,Músico,Las Palmas,10,aire,1,Dúo,480€ + desplazamiento,,13104,2,presupuesto_calculado
+44043,2023-06-19,Reserva COMPLETA de Mariano,Russtyle,Burgos,DJ,Burgos,207,dentro,2,,240,2023-09-23,9664,3,completa
+44057,2023-06-19,Reserva - ESCLATAFOLKS,ESCLATAFOLKS,Baleares,Músico,Baleares,20,dentro,1,Dúo,480€ + desplazamiento,,44054,2,presupuesto_calculado
+44058,2023-06-19,Reserva - ESCLATAFOLKS,ESCLATAFOLKS,Baleares,Músico,Baleares,20,dentro,2,Dúo,690€ + desplazamiento,,44054,2,presupuesto_calculado
+44215,2023-06-19,Reserva - Satisfayers,Satisfayers,Pontevedra,Músico,Pontevedra,22,dentro,2,Banda con batería,756,,11187,2,presupuesto_calculado
+44230,2023-06-19,Reserva - Arde la calle,Arde la calle,Madrid,Músico,Toledo,40,dentro,2,Trío,936,,11405,2,presupuesto_calculado
+44231,2023-06-19,Reserva - Versiones pop español 80/90,Versiones pop español 80/90,Toledo,Músico,Toledo,20,dentro,2,Banda con batería,1320,,16507,2,presupuesto_calculado
+44232,2023-06-19,Reserva - Versiones pop español 80/90,Versiones pop español 80/90,Toledo,Músico,Toledo,20,dentro,2,Banda con batería,1320,,16507,2,presupuesto_calculado
+44417,2023-06-19,Reserva - Natali Pop Band,Natali Pop Band,Valencia,Músico,Valencia,50,aire,2,Trío,780,2023-06-30,20734,3,amedias
+44476,2023-06-20,Reserva - Bohemian club,Bohemian club,Almería,Músico,Almería,50,aire,2,Trío,720,,44438,2,presupuesto_calculado
+44633,2023-06-20,Reserva COMPLETA de Marga,Passion,Valencia,Músico,Valencia,100,dentro,4,Dúo,948,2024-03-16,11068,3,completa
+44696,2023-06-20,Reserva - Arre-Molke,Arre-Molke,Zamora,Músico,Zamora,20,dentro,2,Banda con batería,1200,,44683,2,presupuesto_calculado
+44697,2023-06-20,Reserva - Arre-Molke,Arre-Molke,Zamora,Músico,Zamora,20,dentro,1,Banda con batería,960,,44683,2,presupuesto_calculado
+44734,2023-06-20,Reserva - Arde la calle,Arde la calle,Madrid,Músico,Ávila,50,aire,3,Dúo,632,2023-08-05,11405,3,amedias
+44762,2023-06-21,Reserva - DZayasMusic,DZayasMusic,Madrid,Músico,Madrid,100,dentro,2,Solista,420,,5382,2,presupuesto_calculado
+44921,2023-06-21,Reserva - CAPITAN NEMO COVER BAND,CAPITAN NEMO COVER BAND,Murcia,Músico,Murcia,100,aire,2,Dúo,840,,10878,2,presupuesto_calculado
