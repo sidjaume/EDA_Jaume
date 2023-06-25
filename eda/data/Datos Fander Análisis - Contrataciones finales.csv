@@ -1,0 +1,221 @@
+ID,Músico,GMV (SIN IVA de MÚSICOS),Comisión + IVA (INGRESOS CON IVA),Comisión sin IVA (Ingresos sin IVA o NETOS),Fecha bolo,De donde viene,Estado,Año-mes contratación,Tipo,Categoría,Nº Contrataciones,Cliente Nuevo/Repetidor,"NUEVO = 1, REPE = 0"
+1,Betto Jones,"123,97 €","22,50 €","18,60 €",8/10/2022,,,2021-10,Fiesta,Fiesta,1,NUEVO,1
+2,Luis Retana,"272,73 €","49,50 €","40,91 €",16/10/2022,,,2021-10,Fiesta,Fiesta,1,NUEVO,1
+3,Yai Machine,"190,08 €","34,50 €","28,51 €",16/10/2022,,,2021-10,Fiesta,Fiesta,1,NUEVO,1
+4,Eleka Shows,"247,93 €","45,00 €","37,19 €",22/10/2022,,,2021-10,Fiesta,Fiesta,1,NUEVO,1
+5,Zao Night Band,"785,12 €","0,00 €","0,00 €",24/09/2022,,,2021-11,Fiesta,Fiesta,1,NUEVO,1
+6,Spin Off,"123,97 €","22,50 €","18,60 €",27/11/2022,,,2021-11,Fiesta,Fiesta,1,NUEVO,1
+7,Spin Off,"148,76 €","27,00 €","22,31 €",20/11/2022,,,2021-11,Fiesta,Fiesta,1,NUEVO,1
+8,Spin Off,"206,61 €","37,50 €","30,99 €",27/11/2022,,,2021-11,Fiesta,Fiesta,1,NUEVO,1
+9,Javi del Val,"247,93 €","45,00 €","37,19 €",23/11/2022,,,2021-11,Fiesta,Fiesta,2,REPETIDOR,0
+10,Rocío Chello ,"413,22 €","75,00 €","61,98 €",24/12/2022,,,2021-12,Empresa,Evento,1,NUEVO,1
+11,Rocío Chello ,"826,45 €","150,00 €","123,97 €",1/01/2022,,,2022-01,Empresa,Evento,2,REPETIDOR,0
+12,David Zayas,"413,22 €","75,00 €","61,98 €",12/02/2022,,,2022-01,Fiesta,Fiesta,1,NUEVO,1
+13,Andrés Drello,"148,76 €","27,00 €","22,31 €",12/02/2022,,,2022-02,Fiesta,Fiesta,1,NUEVO,1
+14,Andrés Drello,"164,46 €","29,85 €","24,67 €",14/02/2022,,,2022-02,Fiesta,Fiesta,1,NUEVO,1
+15,Amedias,"454,55 €","82,50 €","68,18 €",19/03/2022,,,2022-02,Fiesta,Fiesta,3,REPETIDOR,0
+16,Amedias,"190,08 €","34,50 €","28,51 €",7/03/2022,,,2022-02,Fiesta,Fiesta,1,NUEVO,1
+17,Capitán Mike,"165,29 €","30,00 €","24,79 €",28/02/2022,,,2022-02,Fiesta,Fiesta,1,NUEVO,1
+18,Andrés Drello,"342,98 €","62,25 €","51,45 €",18/03/2022,,,2022-03,Fiesta,Fiesta,1,NUEVO,1
+19,Zao night band,"909,09 €","165,00 €","136,36 €",10/09/2022,Zank YOu,,2022-03,Boda,Evento,1,NUEVO,1
+20,David Zayas,"826,45 €","150,00 €","123,97 €",21/05/2022,,,2022-03,Boda,Evento,1,NUEVO,1
+21,David Zayas,"909,09 €","165,00 €","136,36 €",25/06/2022,,,2022-03,Boda,Evento,1,NUEVO,1
+22,Tour 80,"289,26 €","52,50 €","43,39 €",23/03/2022,,,2022-03,Fiesta,Fiesta,1,NUEVO,1
+23,Ziro Band,"1.487,60 €","270,00 €","223,14 €",30/07/2022,,,2022-04,Fiesta,Fiesta,1,NUEVO,1
+24,Spin Off,"537,19 €","97,50 €","80,58 €",7/05/2022,,,2022-04,Fiesta,Fiesta,1,NUEVO,1
+25,David Zayas,"743,80 €","135,00 €","111,57 €",28/05/2022,,,2022-04,Boda,Evento,1,NUEVO,1
+26,Pablo Pedraza,"305,79 €","55,50 €","45,87 €",30/04/2022,,,2022-04,Fiesta,Fiesta,1,NUEVO,1
+27,Mocking bird,"305,79 €","55,50 €","45,87 €",4/06/2022,,,2022-04,Boda,Evento,1,NUEVO,1
+28,Josan Rodríguez,"237,19 €","37,00 €","30,58 €",20/05/2022,,,2022-04,Fiesta,Fiesta,1,NUEVO,1
+29,Up fot it,"214,88 €","39,00 €","32,23 €",9/09/2022,,,2022-04,Fiesta,Fiesta,1,NUEVO,1
+30,Guilan,"190,08 €","30,00 €","24,79 €",30/04/2022,,,2022-04,Fiesta,Fiesta,1,NUEVO,1
+31,Spin Off,"289,26 €","50,00 €","41,32 €",9/07/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+32,Sonoriza Eventos,"165,29 €","30,00 €","24,79 €",17/09/2022,Zank you,,2022-05,Boda,Evento,1,NUEVO,1
+33,Rock Olas,"636,36 €","115,50 €","95,45 €",4/06/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+34,Undercover,"826,45 €","150,00 €","123,97 €",9/09/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+35,Zao Night Band,"1.066,12 €","193,50 €","159,92 €",4/06/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+36,Mariachis,"247,93 €","45,00 €","37,19 €",,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+37,De la Huerta,"247,93 €","45,00 €","37,19 €",11/06/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+38,Arañas,"289,26 €","17,50 €","14,46 €",20/05/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+39,Altostanley,"867,77 €","158,00 €","130,58 €",16/07/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+40,Eva Páez,"123,97 €","22,50 €","18,60 €",20/05/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+41,Arde la calle,"206,61 €","37,50 €","30,99 €",26/06/2022,,,2022-05,Fiesta,Fiesta,1,NUEVO,1
+42,Mariachis,"198,35 €","30,00 €","24,79 €",27/05/2022,,,2022-05,Fiesta,Fiesta,4,REPETIDOR,0
+43,Pablo Pedraza,"495,87 €","90,00 €","74,38 €",11/06/2022,recomendacion,,2022-06,Fiesta,Fiesta,1,NUEVO,1
+44,Pablo Pedraza,"289,26 €","52,50 €","43,39 €",18/06/2022,google,,2022-06,Fiesta,Fiesta,1,NUEVO,1
+45,Jose Sonoriza Eventos,"309,92 €","56,25 €","46,49 €",9/07/2022,recomendacion,,2022-06,Fiesta,Fiesta,2,REPETIDOR,0
+46,Pere,"148,76 €","27,00 €","22,31 €",18/06/2022,google,,2022-06,Fiesta,Fiesta,1,NUEVO,1
+47,David Zayas,"1.090,91 €","217,80 €","180,00 €",3/09/2022,WP,,2022-06,WP,Evento,3,REPETIDOR,0
+48,De la Huerta,"272,73 €","49,50 €","40,91 €",25/06/2022,recomendacion,,2022-06,Fiesta,Fiesta,1,NUEVO,1
+49,Guilan,"136,36 €","27,23 €","22,50 €",25/06/2022,recomendacion,,2022-06,Fiesta,Fiesta,1,NUEVO,1
+50,Undercover,"1.100,00 €","199,65 €","165,00 €",25/06/2022,WP,,2022-06,WP,Evento,1,NUEVO,1
+51,Spin Off,"264,46 €","28,00 €","23,14 €",6/07/2022,recomendacion,,2022-06,Fiesta,Fiesta,1,NUEVO,1
+52,Paco Lanzarote,"254,55 €","50,82 €","42,00 €",9/07/2022,google,,2022-06,Fiesta,Fiesta,1,NUEVO,1
+53,Cuarteto Nonamé,"801,65 €","145,50 €","120,25 €",1/10/2022,WP,,2022-06,WP,Evento,1,NUEVO,1
+54,Gabriel Piattorre,"371,90 €","82,60 €","68,26 €",9/07/2022,google,CANCELADO,2022-06,Boda,Evento,1,NUEVO,1
+55,Naufragos,"413,22 €","90,75 €","75,00 €",30/07/2022,recomendacion,,2022-07,Fiesta,Fiesta,1,NUEVO,1
+56,Jose Sonoriza Eventos,"909,09 €","100,00 €","82,64 €",20/08/2022,anuncio fb,,2022-07,Empresa,Evento,1,NUEVO,1
+57,Guilan,"400,00 €","79,86 €","66,00 €",3/09/2022,google,,2022-07,Boda,Evento,1,NUEVO,1
+58,Andres Aranda DJ,"289,26 €","57,17 €","47,25 €",10/09/2022,anuncio fb,,2022-07,Boda,Evento,1,NUEVO,1
+59,La chica de ayer,"322,31 €","58,50 €","48,35 €",31/07/2022,google,,2022-07,Fiesta,Fiesta,1,NUEVO,1
+60,Javi del Val,"350,41 €","63,53 €","52,50 €",20/07/2022,recomendacion,,2022-07,Fiesta,Fiesta,1,NUEVO,1
+61,Alessandro,"100,00 €","18,15 €","15,00 €",3/08/2022,WP,CANCELADO,2022-07,WP,Evento,1,NUEVO,1
+62,Rustica,"123,14 €","26,45 €","21,86 €",28/07/2022,Linkedin,,2022-07,Fiesta,Fiesta,1,NUEVO,1
+63,María Huélamo,"173,55 €","27,23 €","22,50 €",24/09/2022,Gema,,2022-07,WP,Evento,2,REPETIDOR,0
+64,Andres Aranda DJ,"371,90 €","0,00 €","0,00 €",17/09/2022,Boca a boca,,2022-07,Fiesta,Fiesta,1,NUEVO,1
+65,Capitán Nemo,"545,45 €","108,90 €","90,00 €",17/09/2022,Boca a boca,,2022-07,Fiesta,Fiesta,2,REPETIDOR,0
+66,Zao Night,"976,45 €","181,15 €","149,71 €",10/06/2023,Zank You,,2022-07,Boda,Evento,1,NUEVO,1
+67,Sonoriza Eventos,"950,41 €","208,70 €","172,48 €",10/06/2023,Zank You,,2022-08,Boda,Evento,2,REPETIDOR,0
+68,Lalala Band,"1.181,82 €","235,95 €","195,00 €",27/08/2022,Google (oferta),,2022-08,Boda,Evento,1,NUEVO,1
+69,Arde la Calle,"298,35 €","59,73 €","49,36 €",13/08/2022,Google (asesoramiento),,2022-08,Restaurante,Restaurante,1,NUEVO,1
+70,Beatriz Pastor,"355,37 €","78,05 €","64,50 €",8/10/2022,Gema,,2022-08,WP,Evento,1,NUEVO,1
+71,Analisse,"132,23 €","54,80 €","45,29 €",10/09/2022,Recomendación,,2022-09,Fiesta,Fiesta,1,NUEVO,1
+72,J&J,"409,09 €","107,81 €","89,10 €",28/04/2023,,CANCELADO,2022-09,Boda,Evento,1,NUEVO,1
+73,Rock Olas,"500,00 €","108,90 €","90,00 €",10/10/2022,,,2022-09,Fiesta,Fiesta,1,NUEVO,1
+74,Sol de America,"454,55 €","110,00 €","90,91 €",12/10/2022,,,2022-09,Fiesta,Fiesta,1,NUEVO,1
+75,Jadey,"165,29 €","40,00 €","33,06 €",7/10/2022,,,2022-09,Empresa,Evento,1,NUEVO,1
+76,Arde la Calle,"409,09 €","94,50 €","78,10 €",1/10/2022,,,2022-09,Fiesta,Fiesta,1,NUEVO,1
+77,Alejandro Rosa,"500,00 €","100,00 €","82,64 €",1/10/2022,,,2022-09,Boda,Evento,1,NUEVO,1
+78,Tuti Fruti,"181,82 €","31,60 €","26,12 €",22/10/2022,,,2022-09,Fiesta,Fiesta,1,NUEVO,1
+79,Pamela Magal,"293,39 €","45,00 €","37,19 €",22/10/2022,Google Fiestas,,2022-10,Empresa,Evento,1,NUEVO,1
+80,Pamela Magal,"293,39 €","45,00 €","37,19 €",22/10/2022,Google Fiestas,,2022-10,Empresa,Evento,2,REPETIDOR,0
+81,Analisse,"119,83 €","45,00 €","37,19 €",22/10/2022,Google Fiestas,,2022-10,Empresa,Evento,3,REPETIDOR,0
+82,Analisse,"119,83 €","45,00 €","37,19 €",22/10/2022,Google Fiestas,,2022-10,Empresa,Evento,4,REPETIDOR,0
+83,Valentín Porto,"300,00 €","45,00 €","37,19 €",22/10/2022,Google Fiestas,,2022-10,Empresa,Evento,5,REPETIDOR,0
+84,Andrés Aranda,"363,64 €","72,36 €","59,80 €",8/10/2022,Google Bodas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+85,Alejandro Rosa,"305,79 €","67,00 €","55,37 €",8/10/2022,Google Fiestas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+86,Rustica,"144,63 €","25,00 €","20,66 €",15/10/2022,Google Fiestas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+87,Candela & rumba,"318,18 €","70,00 €","57,85 €",15/10/2022,Google Fiestas,,2022-10,Restaurante,Restaurante,1,NUEVO,1
+88,Efectos personales,"82,64 €","15,00 €","12,40 €",15/10/2022,Anuncio FB,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+89,Arde la Calle,"818,18 €","180,00 €","148,76 €",17/06/2023,Recomendación,,2022-10,Boda,Evento,1,NUEVO,1
+90,Rafa Sax,"82,64 €","25,00 €","20,66 €",22/10/2022,Gema,,2022-10,Restaurante,Restaurante,1,NUEVO,1
+91,Lulanca,"227,27 €","50,00 €","41,32 €",1/11/2022,Google Fiestas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+92,Efectos personales,"454,55 €","100,00 €","82,64 €",26/11/2022,Google Fiestas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+93,Retropop,"202,48 €","35,00 €","28,93 €",22/10/2022,Google Fiestas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+94,Rumbitels,"760,33 €","125,00 €","103,31 €",25/03/2023,Google Bodas,,2022-10,Boda,Evento,1,NUEVO,1
+95,David Dieguez,"272,73 €","60,00 €","49,59 €",5/11/2023,Google Bodas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+96,Pol,"152,89 €","36,00 €","29,75 €",26/10/2022,Google Fiestas,CANCELADO,2022-10,Fiesta,Fiesta,1,NUEVO,1
+97,Rustica,"223,14 €","55,00 €","45,45 €",26/11/2022,Google Fiestas,,2022-10,Fiesta,Fiesta,1,NUEVO,1
+98,¿?,"82,64 €","25,00 €","20,66 €",5/11/2022,Gema,,2022-11,Restaurante,Restaurante,2,REPETIDOR,0
+99,Mario Herrero,"123,97 €","30,00 €","24,79 €",3/11/2022,Gema,,2022-11,Restaurante,Restaurante,1,NUEVO,1
+100,Jorge Arenas,"123,97 €","30,00 €","24,79 €",10/11/2022,Gema,,2022-11,Restaurante,Restaurante,2,REPETIDOR,0
+101,Javier Ventura,"99,17 €","20,00 €","16,53 €",23/11/2022,Gema. Para el músico son 100€ + cena. tiene que poder hacernos factura. Salitre nos paga todo anostoros a posteriori.,,2022-11,Restaurante,Restaurante,1,NUEVO,1
+102,Elena Salpe,"33,06 €","10,00 €","8,26 €",18/11/2022,(Google bodas) Lo hacemos con la cuenta nueva,,2022-11,Fiesta,Fiesta,1,NUEVO,1
+103,Andrius DJ,"289,26 €","50,00 €","41,32 €",19/11/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-11,Fiesta,Fiesta,1,NUEVO,1
+104,Sergio Elias,"82,64 €","25,00 €","20,66 €",12/11/2022,Gema,,2022-11,Restaurante,Restaurante,3,REPETIDOR,0
+105,Oscar rapalo,"148,76 €","30,00 €","24,79 €",11/11/2022,Gema,,2022-11,Restaurante,Restaurante,1,NUEVO,1
+106,Andres,"163,64 €","58,00 €","47,93 €",,Gema,,2022-11,Restaurante,Restaurante,1,NUEVO,1
+107,Live Sound,"2.561,98 €","620,00 €","512,40 €",15/04/2023,"Recomendación 8cuenta nueva, lo que falta por pagar se lo paga al músico)",,2022-11,Boda,Evento,1,NUEVO,1
+108,Retropop,"103,31 €","25,00 €","20,66 €",17/11/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-11,Fiesta,Fiesta,1,NUEVO,1
+109,Javi del Val,"338,84 €","75,00 €","61,98 €",18/11/2022,(Google fiestas) Lo hacemos con la cuenta nueva. JdV nos tiene que pasar factura y tenemos que pagarle  335€,,2022-11,Empresa,Evento,1,NUEVO,1
+110,Tai Gonzalez,"99,17 €","20,00 €","16,53 €",30/11/2022,Gema,,2022-11,Restaurante,Restaurante,2,REPETIDOR,0
+111,Sergio Elias,"82,64 €","0,00 €","0,00 €",19/11/2022,Gema,,2022-11,Restaurante,Restaurante,4,REPETIDOR,0
+112,Malik,"289,26 €","50,00 €","41,32 €",19/11/2022,(Google bodas) Lo hacemos con la cuenta nueva,,2022-11,Boda,Evento,1,NUEVO,1
+113,Sergio Elias,"82,64 €","25,00 €","20,66 €",26/11/2022,Gema,,2022-11,Restaurante,Restaurante,5,REPETIDOR,0
+114,Input,"553,72 €","114,50 €","94,63 €",2/12/2022,Recomendación. El músico nos tiene que hacer factura para que le paguemos,,2022-11,Empresa,Evento,1,NUEVO,1
+115,Paula y rober,"206,61 €","45,00 €","37,19 €",30/11/2022,Recomendación,,2022-11,Fiesta,Fiesta,1,NUEVO,1
+116,Marta capitan,"301,65 €","75,00 €","61,98 €",4/12/2022,(Google bodas) Lo hacemos con la cuenta nueva,,2022-11,Fiesta,Fiesta,1,NUEVO,1
+117,Javi del Val,"239,67 €","55,00 €","45,45 €",19/11/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-11,Fiesta,Fiesta,1,NUEVO,1
+118,Beca Laud Trío,"590,91 €","130,00 €","107,44 €",29/04/2023,(Google bodas) Lo hacemos con la cuenta nueva,,2022-11,Boda,Evento,1,NUEVO,1
+119,Arde la Calle,"714,88 €","160,00 €","132,23 €",25/11/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-11,Empresa,Evento,1,NUEVO,1
+120,Oscar Rapalo,"148,76 €","30,00 €","24,79 €",10/12/2022,Recomendación,,2022-11,Fiesta,Fiesta,1,NUEVO,1
+121,DJ Valen,"636,36 €","140,00 €","115,70 €",15/07/2023,(Google bodas) Lo hacemos con la cuenta nueva,,2022-11,Boda,Evento,1,NUEVO,1
+122,Amedias,"421,49 €","100,00 €","82,64 €",15/07/2023,(Google bodas) Lo hacemos con la cuenta nueva,,2022-11,Boda,Evento,2,REPETIDOR,0
+123,Arde la Calle,"619,83 €","150,00 €","123,97 €",7/10/2023,(Google bodas) Lo hacemos con la cuenta nueva,,2022-11,Boda,Evento,1,NUEVO,1
+124,Oscar rapalo,"148,76 €","30,00 €","24,79 €",2/12/2022,Gema,,2022-12,Restaurante,Restaurante,2,REPETIDOR,0
+125,Paula y Rober,"289,26 €","65,00 €","53,72 €",10/12/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-12,Restaurante,Restaurante,1,NUEVO,1
+126,Sergio Elias,"82,64 €","25,00 €","20,66 €",3/12/2022,Gema,,2022-12,Restaurante,Restaurante,6,REPETIDOR,0
+127,Miris Way,"1.239,67 €","150,00 €","123,97 €",31/12/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-12,Restaurante,Restaurante,1,NUEVO,1
+128,María Huélamo,"103,31 €","0,00 €","0,00 €",10/12/2022,Gema,,2022-12,Restaurante,Restaurante,7,REPETIDOR,0
+129,Javi Mejías,"123,97 €","25,00 €","20,66 €",17/12/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-12,Fiesta,Fiesta,1,NUEVO,1
+130,MyM,"280,99 €","62,00 €","51,24 €",17/12/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-12,Fiesta,Fiesta,1,NUEVO,1
+131,Lucia ropero,"524,79 €","85,00 €","70,25 €",18/12/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-12,Fiesta,Fiesta,1,NUEVO,1
+132,Loveacoustic,"163,64 €","28,00 €","23,14 €",16/12/2022,(Google fiestas) Lo hacemos con la cuenta nueva,,2022-12,Empresa,Evento,1,NUEVO,1
+133,Raúl Baraona,"82,64 €","25,00 €","20,66 €",17/12/2022,Gema,,2022-12,Restaurante,Restaurante,8,REPETIDOR,0
+134,Duo Ana Medina Y Andrés Kostu,"247,93 €","53,00 €","43,80 €",13/01/2023,(Google bodas) Lo hacemos con la cuenta nueva,,2022-12,Fiesta,Fiesta,1,NUEVO,1
+135,Amedias,"508,26 €","115,00 €","95,04 €",24/12/2022,,,2022-12,Restaurante,Restaurante,1,NUEVO,1
+136,Julio Flores,"714,88 €","160,00 €","132,23 €",9/09/2023,,,2022-12,Boda,Evento,1,NUEVO,1
+137,AMEDIAS,"309,92 €","75,00 €","61,98 €",27/12/2022,,,2022-12,Fiesta,Fiesta,1,NUEVO,1
+138,Rumbitels,"764,46 €","175,00 €","144,63 €",25/02/2023,Zankyou,,2022-12,Boda,Evento,1,NUEVO,1
+139,OScar Rapalo,"330,58 €","100,00 €","82,64 €",31/12/2022,,,2022-12,Restaurante,Restaurante,1,NUEVO,1
+140,Vanila Star,"483,47 €","85,00 €","70,25 €",17/03/2023,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+141,Oscar rapalo,"148,76 €","30,00 €","24,79 €",24/12/2022,Gema,,2023-01,Restaurante,Restaurante,3,REPETIDOR,0
+142,Sergio Elías,"82,64 €","25,00 €","20,66 €",14/01/2023,Gema,,2023-01,Restaurante,Restaurante,9,REPETIDOR,0
+143,Naufragos,"272,73 €","70,00 €","57,85 €",17/03/2023,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+144,Amigos cristian,"305,79 €","70,00 €","57,85 €",14/01/2023,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+145,Rustica,"545,45 €","110,00 €","90,91 €",18/02/2023,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+146,eco&ele,"413,22 €","100,00 €","82,64 €",28/01/2023,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+147,Maria Huelamo,"297,52 €","65,00 €","53,72 €",24/02/2023,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+148,Efectos personales,"743,80 €","150,00 €","123,97 €",17/03/20223,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+149,Juan Antonio,"82,64 €","20,00 €","16,53 €",28/01/2023,Gema,,2023-01,Restaurante,Restaurante,10,REPETIDOR,0
+150,Dr Java,"495,87 €","110,00 €","90,91 €",11/03/2023,,,2023-01,Fiesta,Fiesta,1,NUEVO,1
+151,Anais,"165,29 €","30,00 €","24,79 €",11/02/2023,,,2023-02,Restaurante,Restaurante,1,NUEVO,1
+152,Rober ,"82,64 €","20,00 €","16,53 €",10/02/2023,,,2023-02,Restaurante,Restaurante,1,NUEVO,1
+153,Rober ,"82,64 €","20,00 €","16,53 €",17/02/2023,,,2023-02,Restaurante,Restaurante,2,REPETIDOR,0
+154,Pedro de Mingo,"165,29 €","35,00 €","28,93 €",04/02/2023,,,2023-02,Restaurante,Restaurante,1,NUEVO,1
+155,Rober y paula,"570,25 €","115,00 €","95,04 €",04/03/2023,,,2023-02,Boda,Evento,1,NUEVO,1
+156,Betty Brown,"148,76 €","30,00 €","24,79 €",07/02/2023,,,2023-02,Fiesta,Fiesta,1,NUEVO,1
+157,Juan Antonio,"82,64 €","20,00 €","16,53 €",11/02/2023,Gema,,2023-02,Restaurante,Restaurante,11,REPETIDOR,0
+158,Anaís Gomez,"33,06 €","10,00 €","8,26 €",23/02/2023,,,2023-02,Fiesta,Fiesta,1,NUEVO,1
+159,Arde la Calle,"2.314,05 €","510,00 €","421,49 €",01/07/2023,,,2023-02,Fiesta,Fiesta,1,NUEVO,1
+160,Input,"818,18 €","140,00 €","115,70 €",26/08/2023,,,2023-02,Boda,Evento,1,NUEVO,1
+161,Joey,"82,64 €","20,00 €","16,53 €",07/04/2023,,,2023-02,Restaurante,Restaurante,3,REPETIDOR,0
+162,Joey,"82,64 €","20,00 €","16,53 €",03/03/2023,,,2023-02,Restaurante,Restaurante,4,REPETIDOR,0
+163,Guille santa olalla,"82,64 €","20,00 €","16,53 €",10/03/2023,,,2023-02,Restaurante,Restaurante,5,REPETIDOR,0
+164,Guille santa olalla,"82,64 €","20,00 €","16,53 €",24/03/2023,,,2023-02,Restaurante,Restaurante,6,REPETIDOR,0
+165,Juan Antonio,"82,64 €","20,00 €","16,53 €",25/02/2023,Gema,,2023-02,Restaurante,Restaurante,12,REPETIDOR,0
+166,Juan Antonio,"82,64 €","20,00 €","16,53 €",04/03/2023,Gema,,2023-03,Restaurante,Restaurante,13,REPETIDOR,0
+167,La chica de ayer,"652,89 €","140,00 €","115,70 €",15/04/2023,,,2023-03,Fiesta,Fiesta,1,NUEVO,1
+168,Candela & rumba,"305,79 €","58,00 €","47,93 €",17/03/2023,,,2023-03,Fiesta,Fiesta,2,REPETIDOR,0
+169,Guilan,"301,65 €","65,00 €","53,72 €",18/03/2023,,,2023-03,Fiesta,Fiesta,1,NUEVO,1
+170,Braju Dj,"314,05 €","80,00 €","66,12 €",07/04/2023,,,2023-03,Empresa,Evento,1,NUEVO,1
+171,Rustica,"380,17 €","90,00 €","74,38 €",03/04/2023,Músicos para fiestas (Google),,2023-03,Empresa,Evento,1,NUEVO,1
+172,Rock Olas,"363,64 €","110,00 €","90,91 €",27/04/2023,,,2023-03,Empresa,Evento,1,NUEVO,1
+173,Don DJ,"314,05 €","80,00 €","66,12 €",25/03/2023,,,2023-03,B2C,Fiesta,1,NUEVO,1
+174,Retrpop,"190,08 €","55,00 €","45,45 €",15/03/2023,,,2023-03,B2C,Fiesta,1,NUEVO,1
+175,Saffi,"99,17 €","30,00 €","24,79 €",01/04/2023,,,2023-03,B2C,Fiesta,1,NUEVO,1
+176,Tuti Fruti,"260,33 €","70,00 €","57,85 €",27/05/2023,,,2023-03,B2C,Fiesta,1,NUEVO,1
+177,Rock Olas,"363,64 €","85,00 €","70,25 €",25/03/2023,,,2023-03,B2C,Fiesta,1,NUEVO,1
+178,Joey,"338,84 €","90,00 €","74,38 €",15/04/2023,,,2023-03,B2C,Fiesta,1,NUEVO,1
+179,Moonlaisey,"82,64 €","20,00 €","16,53 €",25/03/2023,,,2023-03,Restaurante,Restaurante,14,REPETIDOR,0
+180,Arde la Calle,"735,54 €","180,00 €","148,76 €",3/06/2023,,,2023-03,B2C,Evento,1,NUEVO,1
+181,Joey,"181,82 €","60,00 €","49,59 €",15/04/2023,,,2023-03,B2C,Evento,1,NUEVO,1
+182,Guilan,"247,93 €","50,00 €","41,32 €",6/05/2023,,,2023-04,B2C,Fiesta,1,NUEVO,1
+183,Alejandro Rosa,"158,68 €","39,00 €","32,23 €",15/04/2023,,,2023-04,B2C,Fiesta,1,NUEVO,1
+184,Alexandra & BJ,"327,27 €","79,00 €","65,29 €",22/04/2023,,,2023-04,B2C,Fiesta,1,NUEVO,1
+185,The Zlyppers,"487,60 €","118,00 €","97,52 €",3/06/2023,,,2023-04,B2C,Fiesta,1,NUEVO,1
+186,Arde la Calle,"719,01 €","160,00 €","132,23 €",9/09/2023,,,2023-04,B2C,Evento,1,NUEVO,1
+187,eco&ele,"489,00 €","118,58 €","98,00 €",17/06/2023,,,2023-04,B2C,Evento,1,NUEVO,1
+188,DJ Kepi,"144,63 €","30,00 €","24,79 €",21/04/2023,,,2023-04,Restaurante,Restaurante,1,NUEVO,1
+189,Oscar rapalo,"165,29 €","35,00 €","28,93 €",22/04/2023,,,2023-04,Restaurante,Restaurante,1,NUEVO,1
+190,Rustica,"198,35 €","40,00 €","33,06 €",29/04/2023,,,2023-04,B2C,Fiesta,1,NUEVO,1
+191,Guilan,"396,69 €","100,00 €","82,64 €",6/05/2023,,,2023-04,B2C,Fiesta,1,NUEVO,1
+192,Guilan,"347,11 €","70,00 €","57,85 €",14/05/2023,,,2023-04,B2C,Fiesta,1,NUEVO,1
+193,Rock Olas,"446,28 €","100,00 €","82,64 €",19/05/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+194,Rober Marcu,"123,97 €","30,00 €","24,79 €",,,,2023-05,Restaurante,Restaurante,2,REPETIDOR,0
+195,Miris Way,"446,28 €","90,00 €","74,38 €",,,,2023-05,B2C,Fiesta,1,NUEVO,1
+196,María Huélamo,"347,11 €","70,00 €","57,85 €",,,,2023-05,B2C,Evento,1,NUEVO,1
+197,Rock Olas,"537,19 €","130,00 €","107,44 €",20/05/2023,,,2023-05,B2C,Fiesta,2,REPETIDOR,0
+198,Joey,"120,00 €","20,00 €","16,53 €",18/05/2023,,,2023-05,Empresa,Evento,1,NUEVO,1
+199,Up fot it,"340,00 €","66,59 €","55,03 €",8/06/2023,,,2023-05,Empresa,Evento,1,NUEVO,1
+200,Guilan,"714,88 €","165,00 €","136,36 €",20/05/2023,,,2023-05,B2C,Evento,1,NUEVO,1
+201,Leen Loud,"495,87 €","100,00 €","82,64 €",7/07/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+202,Sonoriza eventos,"480,00 €","96,80 €","80,00 €",3/06/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+203,Anais Gomez,"132,23 €","32,00 €","26,45 €",,,,2023-05,B2C,Fiesta,1,NUEVO,1
+204,retroCD,"495,87 €","120,00 €","99,17 €",,,,2023-05,B2C,Fiesta,1,NUEVO,1
+205,Rock Olas,"198,35 €","40,00 €","33,06 €",3/06/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+206,Guilan,"603,31 €","130,00 €","107,44 €",24/06/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+207,Escudero Sax,"297,52 €","70,00 €","57,85 €",27/05/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+208,Sonoriza eventos,"289,26 €","60,00 €","49,59 €",17/06/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+209,Arde la Calle,"396,69 €","120,00 €","99,17 €",2/09/2023,,,2023-05,B2C,Fiesta,1,NUEVO,1
+210,Coro madrid,"582,64 €","100,00 €","82,64 €",,,,2023-05,WP,Evento,2,REPETIDOR,0
+211,Fontan,"785,12 €","150,00 €","123,97 €",,,,2023-06,B2C,Evento,1,NUEVO,1
+212,La chica de ayer,"487,60 €","100,00 €","82,64 €",1/07/2023,,,2023-06,B2C,Fiesta,1,NUEVO,1
+213,De la Huerta,"702,48 €","170,00 €","140,50 €",,,,2023-06,B2C,Evento,1,NUEVO,1
+214,Guille santa olalla,"100,00 €","20,00 €","16,53 €",,,,2023-06,Empresa,Evento,2,REPETIDOR,0
+215,Guilan,"347,11 €","70,00 €","57,85 €",,,,2023-06,B2C,Fiesta,1,NUEVO,1
+216,Alejandro Rosa,"289,26 €","50,00 €","41,32 €",17/06/2023,,,2023-06,B2C,Fiesta,2,REPETIDOR,0
+217,Rober Marcu,"100,00 €","20,00 €","16,53 €",,,,2023-06,Empresa,Evento,3,REPETIDOR,0
+218,Alejandro Rosa,"100,00 €","20,00 €","16,53 €",,,,2023-06,Empresa,Evento,4,REPETIDOR,0
+219,Guilan,"280,99 €","50,00 €","41,32 €",,,,2023-06,Restaurante,Restaurante,1,NUEVO,1
+220,Cada loco con su tema,"578,51 €","140,00 €","115,70 €",,,,2023-06,B2C,Evento,2,REPETIDOR,0
